@@ -1,5 +1,9 @@
 # Nebula Graph Community
 
+- [Slack Channel](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g)
+- [WeChat Group](https://wj.qq.com/s2/8321168/8e2f/)
+- [Forum](https://discuss.nebula-graph.io/)
+
 Welcome to the Nebula Graph Community!
 
 This repo is to provide a place for members of the Nebula Graph community to learn from and collaborate with each other. In this repo, you can find learning resources, communication channels, meetup and events info. We encourage you to become a contributor and committer by improving docs, contributing code, sharing knowledge via talks and presentations, organizing user groups, etc.
@@ -25,13 +29,9 @@ There are video tutorials and recorded talks from meetups on our YouTube page.
 
 We have official social media channels on [Twitter](https://twitter.com/NebulaGraph), [Facebook](https://www.facebook.com/NebulaGraph/) and [LinkedIn](https://www.linkedin.com/company/30897126). Follow us on whichever channel you prefer.
 
-## Communicating
+## Community Activities
 
-You can communicate with the community members via:
-
-- [Slack](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g). The Nebula Graph community is available on Slack. You can join the channel to talk with other community members directly.
-- WeChat. The Nebula Graph community is also available on WeChat. Add **NebulaGraphBot** as a WeChat friend and provide some basic information, you will be invited to the WeChat group and talk with other community members.
-- [Forum](https://discuss.nebula-graph.io/). You can join the discussion board with you GitHub account. Community members raise questions about Nebula Graph there.
+- [Nebula Content Talent Recruiting Program](https://github.com/vesoft-inc/nebula-community/blob/master/content-talent-recruiting-program/content-talent-recruiting-program.md)
 
 ## Contributing
 
