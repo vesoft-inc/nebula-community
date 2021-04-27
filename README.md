@@ -32,6 +32,7 @@ We have official social media channels on [Twitter](https://twitter.com/NebulaGr
 ## Community Activities
 
 - [Nebula Content Talent Recruiting Program](https://github.com/vesoft-inc/nebula-community/blob/master/content-talent-recruiting-program/content-talent-recruiting-program.md)
+- 🆕 [Hello, Nebula Operator Chief Feature Officer](https://discuss.nebula-graph.com.cn/t/topic/3753)
 
 ## Contributing
 
