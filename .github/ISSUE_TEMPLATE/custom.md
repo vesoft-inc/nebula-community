@@ -9,13 +9,15 @@ assignees: ''
 
 The fact that you are using Nebula Graph in production matters to the entire community! Come and share your experience following the template below. We will put your company logo on the Nebula Graph website and would like to learn more about how you are using Nebula Graph.
 
-## Company info
-Please briefly introduce your company here.
+```yaml
+---
+compute_name: "Super Cool Corp."
 
-## Company logo
-Please upload your company logo here.
+use_scenarios:
+ - "We are using Nebula Graph for risk control purpose. (And with a little bit details that can be disclosed.)"
+ - "Other scenarios if any..."
+ - "remove this line if not"
 
-## Use scenario
-Please briefly introduce how you are using Nebula Graph here. For example, you can say "We are using Nebula Graph for risk control purpose. (And with a little bit details that can be disclosed.)"
-
-Thanks!
+company_logo:
+  url: "https://super-cool.com/logo.png"
+```
