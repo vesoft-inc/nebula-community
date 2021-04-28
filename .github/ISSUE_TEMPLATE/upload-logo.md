@@ -11,7 +11,7 @@ The fact that you are using Nebula Graph in production matters to the entire com
 
 ```yaml
 ---
-compute_name: "Super Cool Corp."
+company_name: "Super Cool Corp."
 
 use_scenarios:
  - "We are using Nebula Graph for risk control purpose. (And with a little bit details that can be disclosed.)"
