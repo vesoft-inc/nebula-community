@@ -1,3 +1,0 @@
-# Nebula community architecture
-
-TODO
