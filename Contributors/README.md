@@ -55,7 +55,7 @@ Anyone with at least one PR merged to any repository under [vesoft-inc organizat
 
 To become a Contributor, you should contribute at least one PR to any project under [vesoft-inc organization](https://github.com/vesoft-inc).
 
-There are various ways of contributing. See [Contributing Guide](../docs/manual-EN/4.contributions/how-to-contribute.md) to get started.
+There are various ways of contributing. See [Contributing Guide](./how-to-contribute.md) to get started.
 
 #### Contributor List
 
