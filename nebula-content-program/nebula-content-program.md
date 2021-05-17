@@ -2,9 +2,9 @@
 
 各位 Nebula 社区的小伙伴们，欢迎阅读 Nebula 创作者计划招募书！
 
-随着社区小伙伴越来越多，大家对 Nebula Graph 相关的内容需求也越来越旺盛，我们相信，可以凭借社区的力量，互帮互助，因为，社区里有一群对图数据库和 Nebula Graph 感兴趣，并且愿意用文字的形式跟其他小伙伴分享自己的知识和经验的创作者，在过去的一年多时间里，分享了他们的内容，点击这里（[https://discuss.nebula-graph.com.cn/badges/111/-](https://discuss.nebula-graph.com.cn/badges/111/-)）可以查看目前的 Nebula 内容创作者名单。他们的分享让整个社区用户都从中受益，这是开源精神的延续。因此，Nebula 社区决定启动创作者招募计划，为愿意给社区分享知识和经验的创作者提供机会和必要的帮助，最终惠及整个社区。
+随着社区小伙伴越来越多，大家对 Nebula Graph 相关的内容需求也越来越旺盛，我们相信，可以凭借社区的力量，互帮互助，因为，社区里有一群对图数据库和 Nebula Graph 感兴趣，并且愿意用文字的形式跟其他小伙伴分享自己的知识和经验的创作者，在过去的一年多时间里，分享了他们的内容，点击[这里](https://discuss.nebula-graph.com.cn/badges/111/）可以查看目前的 Nebula 内容创作者名单。他们的分享让整个社区用户都从中受益，这是开源精神的延续。因此，Nebula 社区决定启动创作者招募计划，为愿意给社区分享知识和经验的创作者提供机会和必要的帮助，最终惠及整个社区。
 
-有意向参加的小伙伴可以添加 Nebula 社区运营同学（微信号：JamieYoung）。每一位参与计划的创作者都将获得由 Nebula 社区颁发的“Nebula 社区创作者”证书及徽章；Nebula 社区每年会根据内容产出数量、产出频率、受欢迎程度等指标，评选出“年度最具价值作者 MVA（Most Valuable Author）”，并颁发相应的证书和奖励。
+有意向参加的小伙伴可以添加 Nebula 社区运营同学（微信号：JamieYoung）。每一位参与计划的创作者都将获得由 Nebula 社区颁发的“Nebula 社区创作者”徽章及小礼品；Nebula 社区每年会根据内容产出数量、产出频率、受欢迎程度等指标，评选出“年度最具价值作者 MVA（Most Valuable Author）”，并颁发相应的证书和奖励。
 
 ## 谁可以参与这项计划？
 
@@ -49,8 +49,15 @@
 
 如果你对图数据库及相关技术非常感兴趣，看了很多书，读了很多论文，想要分享自己对图数据库及相关技术现状及发展趋势的看法，Nebula 社区也非常欢迎。
 
+## 最新创作者
+<a href="https://discuss.nebula-graph.com.cn/u/norainsunshine/summary" target="_blank"><img src="https://discuss-cdn.nebula-graph.com.cn/letter_avatar_proxy/v4/letter/n/4bbf92/240.png" width="50" height="50"></a>          
+<a href="https://discuss.nebula-graph.com.cn/u/jiayi98/summary" target="_blank"><img src="https://discuss-cdn.nebula-graph.com.cn/user_avatar/discuss.nebula-graph.com.cn/jiayi98/240/2470_2.png" width="50" height="50"></a>     
+<a href="https://discuss.nebula-graph.com.cn/u/lizhongshuo/summary" target="_blank"><img src="https://discuss-cdn.nebula-graph.com.cn/user_avatar/discuss.nebula-graph.com.cn/lizhongshuo/240/2574_2.png" width="50" height="50"></a>
+
+[查看所有创作者列表](https://discuss.nebula-graph.com.cn/badges/111/-)
+
 Nebula 社区鼓励计划成员将产出的内容发布在自己的渠道，然后同步给社区，社区将会视情况进行转载。
 
 感兴趣的小伙伴可以添加 Nebula 运营同学 JamieYoung 进一步沟通。
 
-Nebula 社区在等你来！
+Nebula 社区等你来！
