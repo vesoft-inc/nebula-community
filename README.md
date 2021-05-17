@@ -32,7 +32,7 @@ We have official social media channels on [Twitter](https://twitter.com/NebulaGr
 ## Community Activities
 
 - [Nebula Content Program](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)
-- 
+
 ## Contributing
 
 Contributions are warmly welcomed and greatly appreciated. Here are a few ways you can contribute:
