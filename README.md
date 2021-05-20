@@ -38,7 +38,7 @@ We have official social media channels on [Twitter](https://twitter.com/NebulaGr
 Contributions are warmly welcomed and greatly appreciated. Here are a few ways you can contribute:
 
 - Start by some [good first issues](https://github.com/vesoft-inc/nebula/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- Submit Pull Requests. See [how to contribute](https://docs.nebula-graph.io/manual-EN/4.contributions/how-to-contribute/)
+- Submit Pull Requests. See [how to contribute](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/how-to-contribute.md)
 
 If you need any help or mentoring getting started, understanding the codebase, or making a PR (or anything else), please ask on Slack or WeChat.
 
