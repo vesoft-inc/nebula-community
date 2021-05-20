@@ -25,24 +25,24 @@ Nebula 社区有一群用户活跃在社群、论坛，积极解答他人的问�
 ## 周边获取方法
 
 - **身份象征·烤漆徽章**
-    1. 论坛回复他人问题且有 1 个回复采纳为【解决方法】
-    2. 参加社区活动有机会获得，Contributor、创作者自动获得该礼品
+    1. [论坛](https://discuss.nebula-graph.com.cn/)回复他人问题且有 1 个回复采纳为【解决方法】
+    2. 参加社区活动有机会获得，[Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md)、[创作者](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)自动获得该礼品
 - **童年回忆·铁皮青蛙**
     1. 线下技术大会专属礼品，需要到大会展台参加活动获得
 - **调试神器·小黄鸭**
     1. 线下技术大会专属礼品，需要到大会展台参加活动获得 
 - **保健康·抱枕**
-    1. 创作者专属礼品，为 Nebula 撰写任意 1 篇文章并发布在【论坛-博客】分类下获得
+    1. 创作者专属礼品，为 Nebula 撰写任意 1 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
 - **灵感存储·笔记本套装**
-    1. 创作者专属礼品，为 Nebula 撰写任意 1 篇文章并发布在【论坛-博客】分类下获得
+    1. 创作者专属礼品，为 Nebula 撰写任意 1 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
 - **多喝热水·马克杯**
-    1. contributor 专属礼品，向 Nebula 任意 Repo 提 pr 并被 merge 获得
+    1. [Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md) 专属礼品，向 Nebula 任意 [Repo](https://github.com/vesoft-inc) 提 pr 并被 merge 获得
 - **护发有功·鸭舌帽**
-    1. 创作者专属礼品，为 Nebula 撰写任意 2 篇文章并发布在【论坛-博客】分类下获得
+    1. 创作者专属礼品，为 Nebula 撰写任意 2 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
 - **愉快搬砖·鼠标垫**
-    1. 创作者礼品，为 Nebula 撰写任意 3 篇文章并发布在【论坛-博客】分类下获得
+    1. 创作者礼品，为 Nebula 撰写任意 3 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
     2. Active Contributor 礼品，向 Nebula 某个 Repo 提 3 个 pr 并被 merge 获得
-    3. 积极答题者礼品，论坛回复他人问题且有 5 个回复采纳为【解决方法】
+    3. 积极答题者礼品， [论坛](https://discuss.nebula-graph.com.cn/)回复他人问题且有 5 个回复采纳为【解决方法】
 - **靓仔靓妹·active contributor T恤**
     1. Active Contributor 专属礼品
 - **编外人员·Nebula 卫衣**
