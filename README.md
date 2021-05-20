@@ -8,6 +8,19 @@ Welcome to the Nebula Graph Community!
 
 This repo is to provide a place for members of the Nebula Graph community to learn from and collaborate with each other. In this repo, you can find learning resources, communication channels, meetup and events info. We encourage you to become a contributor and committer by improving docs, contributing code, sharing knowledge via talks and presentations, organizing user groups, etc.
 
+## Community Activities
+
+- [Nebula Content Program](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)
+
+## Contributing
+
+Contributions are warmly welcomed and greatly appreciated. Here are a few ways you can contribute:
+
+- Start by some [good first issues](https://github.com/vesoft-inc/nebula/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Submit Pull Requests. See [how to contribute](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/how-to-contribute.md)
+
+If you need any help or mentoring getting started, understanding the codebase, or making a PR (or anything else), please ask on Slack or WeChat.
+
 ## Resources
 
 ### [Nebula Blog](https://nebula-graph.io/posts)
@@ -28,19 +41,6 @@ There are video tutorials and recorded talks from meetups on our YouTube page.
 ### Social Media
 
 We have official social media channels on [Twitter](https://twitter.com/NebulaGraph), [Facebook](https://www.facebook.com/NebulaGraph/) and [LinkedIn](https://www.linkedin.com/company/30897126). Follow us on whichever channel you prefer.
-
-## Community Activities
-
-- [Nebula Content Program](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)
-
-## Contributing
-
-Contributions are warmly welcomed and greatly appreciated. Here are a few ways you can contribute:
-
-- Start by some [good first issues](https://github.com/vesoft-inc/nebula/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- Submit Pull Requests. See [how to contribute](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/how-to-contribute.md)
-
-If you need any help or mentoring getting started, understanding the codebase, or making a PR (or anything else), please ask on Slack or WeChat.
 
 ## License
 
