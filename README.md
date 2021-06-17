@@ -8,9 +8,12 @@ Welcome to the Nebula Graph Community!
 
 This repo is to provide a place for members of the Nebula Graph community to learn from and collaborate with each other. In this repo, you can find learning resources, communication channels, meetup and events info. We encourage you to become a contributor and committer by improving docs, contributing code, sharing knowledge via talks and presentations, organizing user groups, etc.
 
+See Nebula Graph Community Architecture: [Here](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-community-architecture)
+
 ## Community Activities
 
 - [Nebula Content Program](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)
+- [NUC 2021](https://nebula-graph.com.cn/nuc2021/?utm_source=githubcommunity)
 
 ## Contributing
 
