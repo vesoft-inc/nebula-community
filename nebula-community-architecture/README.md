@@ -200,7 +200,7 @@ Ambassador 是由一群热心的 Nebula 用户组成，他们用音、视频形�
     - 永久
 - 奖励
     - Ambassador 实体证书
-    - 定制卫衣
+    - 定制 Polo 衫
     - 定制双肩包/旅行箱
     - 论坛 `Nebula 大使`徽章
 
