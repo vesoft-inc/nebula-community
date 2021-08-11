@@ -42,7 +42,7 @@ Nebula 社区存在着一群这种的小伙伴，他们活跃在微信群、Slac
 |15 积分|	15 积分|
 |Nebula 小抱枕	|Nebula 帆布袋|
 |15 积分|	15 积分|
-|Nebula T恤||Nebula 卫衣
+|Nebula T恤|Nebula 卫衣|
 |30 积分|	50 积分|
 |Nebula 双肩包	|-|
 |100 积分| -|
