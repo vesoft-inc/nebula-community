@@ -48,7 +48,7 @@ Nebula 社区存在着一群这种的小伙伴，他们活跃在微信群、Slac
 |![image](https://user-images.githubusercontent.com/38887077/129014555-1437ec5e-f63c-449b-98d5-38e26c6aa9dd.png)|![image](https://user-images.githubusercontent.com/38887077/129014597-0de1ee2f-cc26-4915-9b1c-0b2aece9640d.png)|
 |Nebula T恤|Nebula 卫衣|
 |30 积分|	50 积分|
-|![image](https://user-images.githubusercontent.com/38887077/129014638-76b43c01-5b10-4be7-a473-5b0fa001d3de.png)|-|
+|![image](https://user-images.githubusercontent.com/38887077/129014638-76b43c01-5b10-4be7-a473-5b0fa001d3de.png)|/|
 |Nebula 双肩包	|-|
 |100 积分| -|
 
