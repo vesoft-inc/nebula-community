@@ -44,9 +44,16 @@ Nebula 社区有一群用户活跃在社群、论坛，积极解答他人的问�
     1. 创作者礼品，为 Nebula 撰写任意 3 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
     2. Active Contributor 礼品，向 Nebula 某个 Repo 提 3 个 pr 并被 merge 获得
     3. 积极答题者礼品， [论坛](https://discuss.nebula-graph.com.cn/)回复他人问题且有 5 个回复采纳为【解决方法】
-- **靓仔靓妹·active contributor T恤**
+- **代码印记·active contributor T恤**
     1. Active Contributor 专属礼品
 - **编外人员·Nebula 卫衣**
     1. 参加 Nebula 特定活动有机会获得
+- **🆕 通勤路上·Nebula 双肩包**
+    1. Committer、MVH、MVC、MVE、MVW、Nebula 大使（Ambassador）礼品，社区身份架构参见 [https://github.com/vesoft-inc/nebula-community/tree/master/nebula-community-architecture](https://github.com/vesoft-inc/nebula-community/tree/master/nebula-community-architecture)
+- **🆕 工作之余·Nebula 帆布袋**
+    1. 参加 Nebula 特定活动有机会获得
+- **🆕 普通靓妹·Nebula T恤 & 平平无奇·Nebula T恤**
+    1. 通用 Nebula T恤，可参加 Nebula 特定活动有机会获得
+
 
 注：以上所有周边均有机会参加 Nebula 线下 nMeetup，或者线上 Live 直播抽奖获得；
