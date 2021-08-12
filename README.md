@@ -1,7 +1,8 @@
+[#Englihs#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans) 
+
 # Nebula Graph Community
 
 - [Slack Channel](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g)
-- [WeChat Group](https://wj.qq.com/s2/8321168/8e2f/)
 - [Forum](https://discuss.nebula-graph.io/)
 
 Welcome to the Nebula Graph Community!
@@ -13,7 +14,6 @@ See Nebula Graph Community Architecture: [Here](https://github.com/vesoft-inc/ne
 ## Community Activities
 
 - [Nebula Content Program](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)
-- [NUC 2021](https://nebula-graph.com.cn/nuc2021/?utm_source=githubcommunity)
 
 ## Contributing
 

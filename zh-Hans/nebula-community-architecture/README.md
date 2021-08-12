@@ -1,6 +1,6 @@
-# Nebula Community Architecture
+# Nebula 社区架构
 
-Nebula Community 架构图如下所示：分为开发者（Dev Group）和用户（User Group）。
+Nebula 社区架构图如下所示：分为开发者（Dev Group）和用户（User Group）。
 
 ![Nebula Community Architecture](./images/community-architecture.png)
 
@@ -10,7 +10,7 @@ Dev Group 是由活跃在 Nebula Graph 及其周边工具仓库的开发者组�
 
 ### PMC
 
-PMC，全称 Project Management Committee，负责制定 Nebula Graph 产品功能规划和主导 Nebula Graph 项目开发。你可以通过该链接查看现有 [PMC 成员](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/pmc-list.md)。
+PMC，全称 Project Management Committee，负责制定 Nebula Graph 产品功能规划和主导 Nebula Graph 项目开发。你可以通过该链接查看现有 [PMC 成员](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans/Contributors/pmc-list.md)。
 
 ### Contributor
 
@@ -26,7 +26,7 @@ Contributor 由给 Nebula Graph 及其周边仓库做出贡献的开发者组成
         - 马克杯
         - 论坛 `Contributor` 徽章
 
-你可以通过该链接查看现有 [Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md)。
+你可以通过该链接查看现有 [Contributor](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans/Contributors/contributor-list.md)。
 
 ### Active Contributor
 
@@ -43,7 +43,7 @@ Active Contributor 由给 Nebula Graph 及其周边仓库做出大贡献的开�
         - 定制 T恤
         - 论坛 `Active Contributor` 徽章
 
-你可以通过该链接查看现有 [Active Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/active-contributor-list.md)。
+你可以通过该链接查看现有 [Active Contributor](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans/Contributors/active-contributor-list.md)。
 
 ### Committer
 
@@ -65,7 +65,7 @@ Committer 由给 Nebula Graph 及其周边仓库做出巨大贡献的开发者�
 
 > 注意事项：每个仓库都需要由两名人员 approve pr 后方能合并到主分支；
 
-你可以通过该链接查看现有 [Committer](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/committer-list.md)。
+你可以通过该链接查看现有 [Committer](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans/Contributors/committer-list.md)。
 
 ## User Group
 
@@ -219,6 +219,6 @@ Partner 是由一群热心的 Nebula 用户组成，他们积极地组织线上�
     - 定制 Partner 卫衣
     - Nebula 黑 / 白鸭舌帽
 
-上述所有角色在 Nebula 社区做出的贡献，我们都会以奖励 + 积分形式表示我们的感激之情，积分体系见文稿：[Nebula 社区积分机制](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-community-architecture/nebula-credit.md)
+上述所有角色在 Nebula 社区做出的贡献，我们都会以奖励 + 积分形式表示我们的感激之情，积分体系见文稿：[Nebula 社区积分机制](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans/nebula-community-architecture/nebula-credit.md)
 
 如果阅读本文稿的你，符合任意一种角色定位，但尚未收到对应的奖励，记得联系 Nebula 小助手：nebulagraphbot 同我们联系~
