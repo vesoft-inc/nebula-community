@@ -50,6 +50,7 @@
 如果你对图数据库及相关技术非常感兴趣，看了很多书，读了很多论文，想要分享自己对图数据库及相关技术现状及发展趋势的看法，Nebula 社区也非常欢迎。
 
 ## 最新创作者
+
 <a href="https://discuss.nebula-graph.com.cn/u/norainsunshine/summary" target="_blank"><img src="https://discuss-cdn.nebula-graph.com.cn/letter_avatar_proxy/v4/letter/n/4bbf92/240.png" width="50" height="50"></a>          
 <a href="https://discuss.nebula-graph.com.cn/u/jiayi98/summary" target="_blank"><img src="https://discuss-cdn.nebula-graph.com.cn/user_avatar/discuss.nebula-graph.com.cn/jiayi98/240/2470_2.png" width="50" height="50"></a>     
 <a href="https://discuss.nebula-graph.com.cn/u/lizhongshuo/summary" target="_blank"><img src="https://discuss-cdn.nebula-graph.com.cn/user_avatar/discuss.nebula-graph.com.cn/lizhongshuo/240/2574_2.png" width="50" height="50"></a>

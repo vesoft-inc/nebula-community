@@ -1,9 +1,9 @@
-[#Englihs#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/zh-Hans/README.md) 
+[#Englihs#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans) 
 
 # Nebula Graph 社区
 
 - [微信群](https://wj.qq.com/s2/8321168/8e2f/)
-- [论坛](https://discuss.nebula-graph.io/)
+- [论坛](https://discuss.nebula-graph.com.cn/)
 
 欢迎加入 Nebula Graph 社区 ^ ^
 
