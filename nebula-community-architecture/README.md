@@ -1,224 +1,218 @@
-# Nebula Community Architecture
+# Nebula Graph Community Architecture
 
-Nebula Community 架构图如下所示：分为开发者（Dev Group）和用户（User Group）。
+The Nebula Graph community is composed of two groups: Dev Group and User Group, as shown in the following figure.
 
-![Nebula Community Architecture](./images/community-architecture.png)
+![图片](./images/community-architecture.png)
 
 ## Dev Group
 
-Dev Group 是由活跃在 Nebula Graph 及其周边工具仓库的开发者组成，他们主要负责让 Nebula Graph 产品更加稳定、功能更加丰富、性能更佳。根据他们对整个 Nebula Graph 仓库的贡献，分为 4 种角色：PMC、Committer、Active Contributor 和 Contributor。
+Dev Group is composed of the developers of Nebula Graph database and its related tools. They focus on making the database and its tools more stable, richer in functionalities, and better in performance. Based on their contributions to the Nebula Graph repositories, the group members are categorized into four types: PMC (Project Management Committee), Committer, Active Contributor, and Contributor.  
 
 ### PMC
 
-PMC，全称 Project Management Committee，负责制定 Nebula Graph 产品功能规划和主导 Nebula Graph 项目开发。你可以通过该链接查看现有 [PMC 成员](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/pmc-list.md)。
+PMC is short for Project Management Committee. They are responsible for planning features and leading the development of the Nebula Graph project. Here is the [PMC list](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/pmc-list.md). 
 
 ### Contributor
 
-Contributor 由给 Nebula Graph 及其周边仓库做出贡献的开发者组成。
+Contributors are the developers who contribute to Nebula Graph database and its related tools. 
 
-- 条件
-    - 在任意 repo 下提交并被合并 1 个 pr
-- 任期
-    - 永久
-- 奖励
-    - 礼品
-        - Contributor 电子证书
-        - 马克杯
-        - 论坛 `Contributor` 徽章
+* Requirements
+    * At least one PR is submitted and merged into any repository.
+* Valid period
+    * Permanent
+* Awards
+    * Gifts
+        * Electrical certificate of Contributor
+        * A Nebula Graph mug
+        * The Contributor badge on the forum
 
-你可以通过该链接查看现有 [Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md)。
+Here is the [Contributor list](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md). 
 
 ### Active Contributor
 
-Active Contributor 由给 Nebula Graph 及其周边仓库做出大贡献的开发者组成。
+Active Contributors are the developers who make frequent contributions to Nebula Graph database and its related tools.
 
-- 条件
-    - 一个自然年在某个 repo 提交并被合并 3 个 pr
-- 任期
-    - 一年
-- 奖励
-    - 礼品
-        - Active Contributor 电子证书
-        - 大鼠标垫
-        - 定制 T恤
-        - 论坛 `Active Contributor` 徽章
+* Requirements
+    * At least three PRs are submitted and merged to any repository within one calendar year.
+* Valid period
+    * One year
+* Awards
+    * Gifts
+        * Electrical certificate of Active Contributor
+        * Nebula Graph large mouse pads
+        * Nebula Graph T-shirts
+        * The Active Contributor badge on the forum
 
-你可以通过该链接查看现有 [Active Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/active-contributor-list.md)。
+Here is the [Active Contributor list](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/active-contributor-list.md). 
 
 ### Committer
 
-Committer 由给 Nebula Graph 及其周边仓库做出巨大贡献的开发者组成，具有对应仓库的 pr 的 approve 权限。
+Committers are the developers who have made great contributions to Nebula Graph database and its related tools. They have the privilege of approving PRs.
 
-- 条件
-    - 一个自然年在某个 repo 提交并被合并 5 个 pr
-- 任期
-    - 一年
-- 奖励
-    - 礼品
-        - Committer 实体证书
-        - 定制卫衣
-        - 定制双肩包
-        - 奖杯
-        - 论坛 `Committer` 徽章
-    - 权益
-        - approve 所在仓库他人的 pr
+* Requirements
+    * At least five PRs are submitted and merged to any repository within one calendar year.
+* Valid period
+    * One year
+* Awards
+    * Gifts
+        * Physical certificate of Committer
+        * Nebula Graph hoodie/sweatshirt
+        * Nebula Graph backpacks
+        * Trophies
+        * The Committer badge on the forum
+    * Privilege
+        * Approving the PRs submitted by others
+>NOTE: Two approvals from two reviewers are necessary to merge a PR into the master branch of each repository.
 
-> 注意事项：每个仓库都需要由两名人员 approve pr 后方能合并到主分支；
-
-你可以通过该链接查看现有 [Committer](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/committer-list.md)。
+Here is the [Committer list]. 
 
 ## User Group
 
-User Group 由活跃在 Nebula 论坛及其微信群、Slack 的用户组成，他们引导其他用户更好地了解、实践 Nebula Graph，同 Nebula 官方共建 Nebula 社区。根据他们引导用户的方法不同，我们将他们分为了 4 种角色：Participant、Writer、Ambassador 和 Partner。
+User Group is composed of the active members from the Nebula Graph forum, the WeChat group, and the Slack channel. They can help other users better understand and use Nebula Graph, and work with the Nebula Graph team to build the community. According to how they help users, one of these roles is assigned to them: Participant, Writer, Ambassador, and Partner.
 
 ### Participant
 
-Participant 是由一群热心的 Nebula 用户组成，他们尝试帮忙解决他人问题，因此他们在论坛的身份标识是 `好心人`。根据他们后续的建设 Nebula 社区的方式，分为：Hunter、Creator 和 Explainer 等 3 种角色。
+Participants are those active Nebula Graph users. They are willing to help others, so they are tagged `Participant`. According to how they further help build the community, one of these roles is assigned to them: Hunter, Creator, and Explainer.
 
 #### Hunter
 
-Hunter 是一群帮忙定位 Nebula bug 的社区用户。
+Hunters are those community members who find bugs for Nebula Graph.
 
-- 条件
-    - 发现一个 Nebula 相关的 bug
-- 任期
-    - 永久
-- 奖励
-    - 论坛 `捉虫小能手`徽章
+* Requirements
+    * Reporting at least one bug for Nebula Graph or its related tools. 
+* Valid period
+    * Permanent
+* Awards
+    * The `Hunter` badge on the forum
 
-每年 Nebula 社区会从当年的 Hunter 中投票选出当年的 MVH，而 MVH 将获得以下礼品：
+Every year, the Most Valuable Hunter (MVH) will be awarded to those Hunters who receive the most votes from the community. The MVH can earn these gifts:
 
-- MVH 实体证书
-- 定制双肩包
-- 奖杯
-- Nebula T恤
-
+* Physical certificate of MVH
+* Nebula Graph backpacks
+* Trophies
+* Nebula Graph T-shirts
 #### Creator
 
-Creator 是一群帮忙改进 Nebula 的社区用户，他们在社区中提出他们的反馈和建议。
+Creators are the community members who help improve the Nebula Graph database and its related tools. They submit feedback and suggestions in the community.
 
-- 条件
-    - 提出一个 Nebula 相关的改进、优化、新增需求并被采纳
-- 任期
-    - 永久
-- 奖励
-    - 论坛 `通情者`徽章
+* Requirements
+    * At least one improvement, optimization, or new feature for Nebula Graph or its tools has been submitted and accepted.
+* Valid period
+    * Permanent
+* Awards
+    * The `Creator` badge on the forum
 
-每年 Nebula 社区会从当年的 Creator 中投票选出当年的 MVC，而 MVC 将获得以下礼品：
+Every year, the Most Valuable Creator (MVC) will be awarded to those Creators who receive the most votes from the community. The MVC can earn these gifts:
 
-- MVC 实体证书
-- 定制双肩包
-- 奖杯
-- Nebula T恤
-
+* Physical certificate of MVC
+* Nebula Graph backpacks
+* Trophies
+* Nebula Graph T-shirts
 #### Explainer
 
-Explainer 是一群在论坛、微信群、Slack 等渠道回复其他社区用户问题的用户，根据他们回复被采纳的情况，分为：Explainer、Refiner、Illuminator。
+Explainers are the community members who reply to the questions raised in the forum, the WeChat group, or the Slack channel. According to whether their replies have been accepted or not, one of these roles is assigned to them: Explainer, Refiner, and Illuminator.
 
-- Explainer
-    - 条件
-        - 在论坛回复其他人问题且有 1 个被采纳为解决方案
-    - 任期
-        - 永久
-    - 奖励
-        - 礼品
-            - Nebula 实体徽章
-            - 论坛 `启蒙者` 徽章
-- Refiner
-    - 条件
-        - 在论坛回复其他人问题且有 5 个被采纳为解决方案
-    - 任期
-        - 永久
-    - 奖励
-        - 礼品
-            - Nebula 大鼠标垫
-            - 论坛 `辅导员` 徽章
-- Illuminator
-    - 条件
-        - 在论坛回复其他人问题且有 10 个被采纳为解决方案
-    - 任期
-        - 永久
-    - 奖励
-        - 礼品
-            - Nebula 黑 / 白鸭舌帽
-            - 论坛 `引路人` 徽章
+* Explainer
+    * Requirements
+        * At least one reply has been accepted as the solution.
+    * Valid period
+        * Permanent
+    * Awards
+        * Gifts
+            * Physical Nebula Graph badge
+            * The `Explainer` badge on the forum
+* Refiner
+    * Requirements
+        * At least five replies have been accepted as the solutions.
+    * Valid period
+        * Permanent
+    * Awards
+        * Gifts
+            * Nebula Graph large mouse pads
+            * The `Refiner` badge on the forum
+* Illuminator
+    * Requirements
+        * At least ten replies have been accepted as the solutions.
+    * Valid period
+        * Permanent
+    * Awards
+        * Gifts
+            * Nebula Graph peaked caps (white or black)
+            * The `Illuminator` badge on the forum
 
-每年 Nebula 社区会从当年的 Explainer 中投票选出当年的 MVE，而 MVE 将获得以下礼品：
+Every year, the Most Valuable Explainer (MVE) will be awarded to those Explainers who receive the most votes from the community. The MVE can earn these gifts:
 
-- MVE 实体证书
-- 定制双肩包
-- 奖杯
-- Nebula T恤
-
+* Physical certificate of MVE
+* Nebula Graph backpacks
+* Trophies
+* Nebula Graph T-shirts
 ### Writer
 
-Writer 是由一群热心的 Nebula 用户组成，他们用文字的形式记录他们的使用过程，帮助其他用户更好地使用 Nebula Graph。根据他们产出文章的数量，分为：Writer、Author、Preacher。
+Writers are those kindhearted Nebula Graph users who help other users understand Nebula Graph better via writing articles describing their experience in using Nebula Graph or its related tools. According to the number of the posted articles, one of these roles is assigned to them: Writer, Author, and Preacher.
 
-- Writer
-    - 条件
-        - 为 Nebula 社区撰写 1 篇相关测评或者实践分享
-    - 任期
-        - 永久
-    - 奖励
-        - 礼品
-            - Nebula 抱枕
-            - 论坛 `特约写手` 徽章
-            - 论坛 `Nebula 测评员` 徽章，需要对应文章主题为性能测试；
-- Author
-    - 条件
-        - 为 Nebula 社区撰写 2 篇相关测评或者实践分享
-    - 任期
-        - 永久
-    - 奖励
-        - 礼品
-            - Nebula 黑 / 白鸭舌帽
-            - 论坛 `资深作家` 徽章
-- Preacher
-    - 条件
-        - 为 Nebula 社区撰写 3 篇相关测评或者实践分享
-    - 任期
-        - 永久
-    - 奖励
-        - 礼品
-            - Nebula 大鼠标垫
-            - 论坛 `布道者` 徽章
+* Writer
+    * Requirements
+        * At least one article has been posted in the Nebula Graph community.
+    * Valid period
+        * Permanent
+    * Awards
+        * Gifts
+            * Nebula Graph throw pillows
+            * The `Writer` badge on the forum
+            * The `NebulaEvaluator` badge on the forum: The article must be about the performance testing.
+* Author
+    * Requirements
+        * At least two articles have been posted in the Nebula Graph community.
+    * Valid period
+        * Permanent
+    * Awards
+        * Gifts
+            * Nebula Graph peaked caps (white or black)
+            * The `Author` badge on the forum
+* Preacher
+    * Requirements
+        * At least three articles have been posted in the Nebula Graph community.
+    * Valid period
+        * Permanent
+    * Awards
+        * Gifts
+            * Nebula Graph large mouse pads
+            * The `Preacher` badge on the forum
 
-每年 Nebula 社区会从当年的 Writer 中投票选出当年的 MVW，而 MVW 将获得以下礼品：
+Every year, the Most Valuable Writer (MVW) will be awarded to those Writers who receive the most votes from the community. The MVW can earn these gifts:
 
-- MVW 实体证书
-- 定制双肩包
-- 奖杯
-- Nebula T恤
-
+* Physical certificate of MVW
+* Nebula Graph backpacks
+* Trophies
+* Nebula Graph T-shirts
 ### Ambassador
 
-Ambassador 是由一群热心的 Nebula 用户组成，他们用音、视频形式向他人分享 Nebula 技术，帮助其他开发者更好地认识、了解 Nebula Graph。
+Ambassadors are the kindhearted Nebula Graph users who are willing to share their experience in using Nebula Graph in the form of audio or video to help others understand Nebula Graph better.
 
-- 条件
-    - 在公司内部或者其他公开场所分享 Nebula 相关视频，并将视频提供给 Nebula 社区
-- 任期
-    - 永久
-- 奖励
-    - Ambassador 实体证书
-    - 定制 Polo 衫
-    - 定制双肩包/旅行箱
-    - 论坛 `Nebula 大使`徽章
-
+* Requirements
+    * Sharing Nebula Graph inside or outside their company in the form of video and providing the video to the Nebula Graph community.
+* Valid period
+    * Permanent
+* Awards
+    * Physical certificate of Ambassador
+    * Nebula Graph sweaters
+    * Nebula Graph backpacks or suitcases
+    * The `Nebula``Ambassador` badge on the forum
 ### Partner
 
-Partner 是由一群热心的 Nebula 用户组成，他们积极地组织线上、线下活动同其他开发者交流 Nebula 技术，帮助其他开发者更好地认识、了解 Nebula Graph。
+Partners are the kindhearted Nebula Graph users who are willing to hold online or offline activities to share Nebula Graph with other developers and help them understand Nebula Graph better.
 
-- 条件
-    - 有共建 Nebula 社区意向
-    - 乐于组织技术分享活动
-    - 对开源 / Nebula 社区用户有一定号召力
-- 任期
-    - 永久
-- 奖励
-    - Partner 电子委任书
-    - 定制 Partner 卫衣
-    - Nebula 黑 / 白鸭舌帽
+* Requirements
+    * Willing to build the Nebula Graph community together with the Nebula Graph team
+    * Willing to hold activities for sharing technology
+    * A charismatic leader in open-source communities or the Nebula Graph community
+* Valid period
+    * Permanent
+* Awards
+    * Electrical letter of appointment of Partner
+    * Nebula Graph Partner sweaters
+    * Nebula Graph peaked caps (white or black)
 
-上述所有角色在 Nebula 社区做出的贡献，我们都会以奖励 + 积分形式表示我们的感激之情，积分体系见文稿：[Nebula 社区积分机制](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-community-architecture/nebula-credit.md)
+For the contributions of all the users who meet any of the preceding role requirements, we want to express our gratitude in the form of rewards and Nebula Graph Points. For details of the Nebula Graph Points, please refer to: [What are Nebula Graph Points](./nebula-credit.md).
 
-如果阅读本文稿的你，符合任意一种角色定位，但尚未收到对应的奖励，记得联系 Nebula 小助手：nebulagraphbot 同我们联系~
+If you meet any of the preceding role requirements but have not received the corresponding reward or points, please contact us @nebulagraphbot. 

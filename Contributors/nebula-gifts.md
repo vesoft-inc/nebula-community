@@ -1,59 +1,54 @@
-# Nebula 周边全家福
+# Nebula Graph SWAG Ready for You!
 
-Nebula 社区有一群用户活跃在社群、论坛，积极解答他人的问题，也有那么一群人活跃在 GitHub，将对 Nebula 的优化、改进以 pr 的形式写在了代码、文档里，还有一群人用自己的文字为社区的其他用户指引方向，开启 Nebula 的使用之旅。
+The Nebula Graph community has a lot of kindhearted and active users. Some of them have been actively replying to the questions raised by other users in the social media groups or the forum, some are active in submitting PRs on GitHub to improve Nebula Graph database and its related tools, and some are enthusiastic in sharing their experience in the community to help others get started with Nebula Graph.
 
-感谢这群 Nebula 社区用户，Nebula 这厢有礼 ↓↓
+To thank all these members of the Nebula Graph community, we get some Nebula Graph SWAG (Stuff We All Get) items ready for them. 
 
-## Nebula 周边
+## Nebula Graph SWAG
 
-| 周边礼物 | 周边礼物 |
-| :---: | :---: |
-| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-badge.jpg" width="400" height="300" >| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-frog.jpg" width="400" height="300" >|
-| 身份象征·烤漆徽章 | 童年回忆·铁皮青蛙 |
-| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-duck.jpg" width="400" height="300" >| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-pillow.jpg" width="400" height="300" >|
-| 调试神器·小黄鸭 | 保健康·抱枕 |
-| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-notebook.jpg" width="400" height="300" >| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-cup.jpg" width="400" height="300" >|
-| 灵感存储·笔记本套装 | 多喝热水·马克杯 |
-| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-hat.jpg" width="400" height="300" >| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-mouse-pad.jpg" width="400" height="300" >|
-| 护发有功·鸭舌帽 | 愉快搬砖·鼠标垫 |
-| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-active-contributor-t-shirt.jpg" width="400" height="300" >| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-sweatshirt-white.jpg" width="400" height="300" >|
-| 靓仔靓妹·active contributor T恤 | 编外人员·Nebula 卫衣白色款 |
-| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/nebula-sweatshirt-black.jpg" width="400" height="300" >| <img src="https://www-cdn.nebula-graph.com.cn/nebula-blog/Draft/coming-soon.png" width="400" height="300" >|
-| 编外人员·Nebula 卫衣黑色款 | 在路上的其他周边 |
+|Nebula Graph SWAG|Nebula Graph SWAG|
+|:----:|:----|:----:|:----|
+| <img src="https://user-images.githubusercontent.com/38887077/129151958-88b66838-19ec-4471-a8fe-e8c63871eea5.png" width="400" height="300" >| <img src="https://user-images.githubusercontent.com/38887077/129152067-2b8b1385-6b03-498b-825f-5bc83e1cf74b.png" width="400" height="300" >|
+| Nebula Graph Badge | Clockwork Tin Jumping Frog |
+| <img src="https://user-images.githubusercontent.com/38887077/129152297-8d5f94d2-c463-4693-af26-803e91a8037d.png" width="400" height="300" >| <img src="https://user-images.githubusercontent.com/38887077/129152315-a64ef8bf-153b-4626-9b36-55bbb87ff9a9.png" width="400" height="300" >|
+| Mini Yellow Rubber Bath Duck | Throw Pillow |
+| <img src="https://user-images.githubusercontent.com/38887077/129152332-a9ac6a86-0764-4a7f-8dff-e27fd6dfb338.png" width="400" height="300" >| <img src="https://user-images.githubusercontent.com/38887077/129152339-5f530dc6-0543-4390-a53d-de735d31a92b.png" width="400" height="300" >|
+| Notebook Set | Nebula Graph Mug |
+| <img src="https://user-images.githubusercontent.com/38887077/129152349-c3df3127-603c-4c16-9fd4-a6bf1c0c75ac.png" width="400" height="300" >| <img src="https://user-images.githubusercontent.com/38887077/129152359-4328625f-e205-4106-bb00-14226a29cfb2.png" width="400" height="300" >|
+| Nebula Graph Peaked Cap | Nebula Graph Large Mouse Pad |
+| <img src="https://user-images.githubusercontent.com/38887077/129152366-1ced8593-c094-4123-a1e9-1edf23c06ea5.png" width="400" height="300" >| <img src="https://user-images.githubusercontent.com/38887077/129152394-64b3ed86-9259-4684-b36b-dbf93017a3d5.png" width="400" height="300" >|
+| Nebula Graph T-shirt for Active Contributor | Nebula Graph Sweatshirt (White) |
+| <img src="https://user-images.githubusercontent.com/38887077/129152403-c85eb5ec-394d-490e-b419-00c36db1dd45.png" width="400" height="300" >| <img src="https://user-images.githubusercontent.com/38887077/129152410-93bf7996-cc41-4968-896e-335748faf183.png" width="400" height="300" >|
+| Nebula Graph Hoodie (Black) | More Nebula Graph SWAG items are coming |
 
+## How to Earn Nebula Graph SWAG
 
-## 周边获取方法
+* **Nebula Graph badges**
+    * Anyone who replies to the questions asked by other users on the [forum](https://discuss.nebula-graph.io/) and at least one reply has been accepted as the solution can earn a badge.
+    * Anyone who participates in the community activities can earn a badge. Users will directly earn a badge once they are granted the [Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md) or Creator role.
+    * Anyone who replies to the [Wanted: Who is using Nebula Graph?](https://github.com/vesoft-inc/nebula-community/issues/2) issue on the nebula-community repository according to the specified rules will earn a badge.
+* **Clockwork tin jumping frogs**
+    * A dedicated gift for offline meetups of the Nebula Graph community. Anyone who participates in the activities held on the exhibition stand will earn a toy frog.
+* **Mini yellow rubber bath ducks**
+    * A dedicated gift for the offline meetups of the Nebula Graph community. Anyone who participates in the activities held on the exhibition stand will earn a bath duck.
+* **Nebula Graph throw pillows**
+    * A dedicated gift for content contributors. Anyone who posts an article in the [Blog category of the forum](https://discuss.nebula-graph.io/c/blog/8) will earn a throw pillow. 
+* **Notebook sets**
+    * A dedicated gift for content contributors. Anyone who posts an article in the [Blog category of the forum](https://discuss.nebula-graph.io/c/blog/8) will earn a notebook set. 
+* **Nebula Graph mugs**
+    * A dedicated gift for Contributors. Anyone who submits a PR to any [repository ](https://github.com/vesoft-inc) will earn a mug when the PR is merged.
+* **Neubla Graph peaked caps**
+    * A dedicated gift for content contributors. Anyone who posts two articles in the [Blog category of the forum](https://discuss.nebula-graph.io/c/blog/8) can earn a peaked cap. 
+* **Nebula Graph large mouse pads**
+    * A dedicated gift for content contributors. Anyone who posts three articles in the [Blog category of the forum](https://discuss.nebula-graph.io/c/blog/8) will earn a large mouse pad. 
+    * A dedicated gift for Active Contributors. Anyone who submits three PRs to any repository will earn a mouse pad when the PRs are merged. 
+    * A gift for active repliers. Anyone who replies to the questions asked by other users on the forum and at least five replies have been accepted as the solutions can earn a mouse pad.
+* **Nebula Graph Active Contributor T-shirts**
+    * A dedicated gift for Active Contributors.
+* **Nebula Graph Sweaters**
+    * Anyone who participates in the specialized Nebula Graph activities can earn a sweater.
 
-- **身份象征·烤漆徽章**
-    1. [论坛](https://discuss.nebula-graph.com.cn/)回复他人问题且有 1 个回复采纳为【解决方法】
-    2. 参加社区活动有机会获得，[Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md)、[创作者](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)自动获得该礼品
-    3. 按照特定格式评论 nebula-community repo 的 「Wanted: Who is using Nebula Graph?」[issue](https://github.com/vesoft-inc/nebula-community/issues/2) 
-- **童年回忆·铁皮青蛙**
-    1. 线下技术大会专属礼品，需要到大会展台参加活动获得
-- **调试神器·小黄鸭**
-    1. 线下技术大会专属礼品，需要到大会展台参加活动获得 
-- **保健康·抱枕**
-    1. 创作者专属礼品，为 Nebula 撰写任意 1 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
-- **灵感存储·笔记本套装**
-    1. 创作者专属礼品，为 Nebula 撰写任意 1 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
-- **多喝热水·马克杯**
-    1. [Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md) 专属礼品，向 Nebula 任意 [Repo](https://github.com/vesoft-inc) 提 pr 并被 merge 获得
-- **护发有功·鸭舌帽**
-    1. 创作者专属礼品，为 Nebula 撰写任意 2 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
-- **愉快搬砖·鼠标垫**
-    1. 创作者礼品，为 Nebula 撰写任意 3 篇文章并发布在[【论坛-博客】](https://discuss.nebula-graph.com.cn/c/blog/8)分类下获得
-    2. Active Contributor 礼品，向 Nebula 某个 Repo 提 3 个 pr 并被 merge 获得
-    3. 积极答题者礼品， [论坛](https://discuss.nebula-graph.com.cn/)回复他人问题且有 5 个回复采纳为【解决方法】
-- **代码印记·active contributor T恤**
-    1. Active Contributor 专属礼品
-- **编外人员·Nebula 卫衣**
-    1. 参加 Nebula 特定活动有机会获得
-- **🆕 通勤路上·Nebula 双肩包**
-    1. Committer、MVH、MVC、MVE、MVW、Nebula 大使（Ambassador）礼品，社区身份架构参见 [https://github.com/vesoft-inc/nebula-community/tree/master/nebula-community-architecture](https://github.com/vesoft-inc/nebula-community/tree/master/nebula-community-architecture)
-- **🆕 工作之余·Nebula 帆布袋**
-    1. 参加 Nebula 特定活动有机会获得
-- **🆕 普通靓妹·Nebula T恤 & 平平无奇·Nebula T恤**
-    1. 通用 Nebula T恤，可参加 Nebula 特定活动有机会获得
+An officially granted community role is necessary for anyone who wants to earn any one of these Nebula Graph SWAG items. For more information about the roles, see Nebula Graph Community Architecture.
 
+NOTE: All the Nebula Graph SWAG items may become the gifts of any offline Nebula Graph nMeetup activity or the lottery prizes of any online livestreaming marketing activity. 
 
-注：以上所有周边均有机会参加 Nebula 线下 nMeetup，或者线上 Live 直播抽奖获得；
