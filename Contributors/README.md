@@ -2,7 +2,7 @@
 
 The Nebula Graph community is organized as shown below.
 
-![image](https://user-images.githubusercontent.com/38887077/128313414-36cdbe50-8a7b-4a72-bf0d-295f64369965.png)
+![image](https://user-images.githubusercontent.com/38887077/129157592-90c55486-9355-4609-84bb-de88a78a3555.png)
 
 ## PMC
 

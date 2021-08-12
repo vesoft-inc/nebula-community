@@ -1,64 +1,50 @@
-# Nebula 社区积分机制
+# What are Nebula Graph Points
 
-Nebula 社区存在着一群这种的小伙伴，他们活跃在微信群、Slack 积极回复其他小伙伴的问题，帮其他用户更加了解 Nebula，他们是 Nebula 社区的热心人士。同样也有这么一群人，他们用自己的文字写下他们的故事，最后以最佳实践、测评形式同你我见面，他们是 Nebula 社区的创作者。还有这么一群人，show we the code，将他们的代码永远留在 Nebula 血液里，他们是 Nebula 社区的 Contributor。无论是热心人士，还是创作者，或是 Contributor ，他们都是 Nebula 社区的 nStar。
+The Nebula Graph community has a lot of engaging members. They actively reply to the questions raised by other Nebula Graph users in the WeChat group or the Slack channel, helping them understand Nebula Graph better. They are very kindhearted. There are also a group of creative members who are willing to transform their experience to articles about best practices and evaluation and to share them with the global community. The last group. They are proud of "Show me the code" and have made great contributions to the Nebula Graph project. They are Contributors of the Nebula Graph community. All these people are nStars of the community. To acknowledge their contributions, we introduce a credit point mechanism. All their efforts can be exchanged for the Nebula Graph SWAG, which enables Nebula Graph to accompany them forever in another form. 
 
-而这么一群人，Nebula 给他们准备的诚意便是：Nebula 积分机制，你所有的努力都会兑换成 Nebula 周边，以另外一种形式陪伴你。
+## How to Earn Nebula Graph Points
 
-### 积分获得
+* Reply to questions
+    * Anyone who replies to other users' questions will earn 1 point when their reply is accepted by the questioner as the solution. 
+* Participate in community activities
+    * Anyone who participates in any offline Nebula nMeetup will earn 1 point.
+    * Anyone who participates in the Nebula Graph community activities will earn 1 point.
+* Report bugs
+    * Anyone who submits a bug of Nebula Graph will earn 1 point. 
+    * Anyone who submits a bug that can cause Nebula Graph to crash will earn 10 points. 
+* Contribute content
+    * Anyone who posts articles about their experience or evaluation in using or testing Nebula Graph will earn 15 points.
+* PR
+    * Anyone who submits a PR to any Nebula Graph repository will earn various points according to the difficulty of the PR when the PR is merged: 
+        * Easy level: 5 points.
+        * Medium level: 10 points.
+        * Difficult level: 20 points.
+* Presentation: Anyone who shares their experience in using Nebula Graph on a conference not held by Nebula Graph or inside their company will earn 20 points.
+* Anyone who holds an online or offline community activity that focuses on learning Nebula Graph will earn 30 points. 
+* Redeeming Nebula Graph gift vouchers for points: 
+    * One Nebula Graph activity gift voucher for 15 points.
+    * One Nebula Graph Active Contributor gift voucher for 20 points.
+    * One Nebula Graph Active Committer gift voucher for 30 points.
 
-- 答题
-    - 论坛回复其他人的问题，并且回复被提问者采纳为【解决方案】，计 1 个积分；
-- 参加活动
-    - Nebula 社区举办的 nMeetup，计 1 个积分；
-    - 参加  Nebula 社区活动，计 1 个积分；
-- 捉虫
-    - 帮 Nebula 找到一个 bug，计 1 个积分；
-    - 帮 Nebula 找到一个 crash 级别的 bug，计 10 个积分；
-- 创作
-    - 写下自己对 Nebula 的使用心得、踩坑经验之谈、调优小技巧、测评姿势，计 15 个积分；
-- pr
-    - 向 Nebula 任意仓库提交 pr 并被 merge，按照 pr 对应 issue 的难易程度，计分如下：
-        - Easy 级别，计 5 分；
-        - Medium 级别，计 10 分；
-        - Difficult 级别，计 20 分；
-- 演讲
-        - 在任意非 Nebula 主办的会议上，或者在公司内部，分享 Nebula Graph，计 20 分；
-- 组织活动
-        - 组织一场以 Nebula Graph 学习分享为主题的线上或线下活动，计 30 分；
-- Nebula 礼券兑换
-        - Nebula 活动礼券换积分，计 15 个积分；
-        - Nebula Active Contributor 礼券换积分，计 20 个积分；
-        - Nebula Active Committer 礼券换积分，计 30 个积分；
+ATTENTION: A bug can be reported as an issue on GitHub or a question on the forum.
 
+### 
+## Redeeming points for Nebula Graph SWAG
 
-注意，捉虫的小伙伴提 bug 可以采用 GitHub issue 和论坛提问两种形式。
+|Nebula Graph Large Mouse Pad|Nebula Graph Peaked Cap (Black or White)|
+|:----|:----|
+|15 Points|15 Points|
+|Nebula Graph Mug|Nebula Graph Notebook Set (Stock Shortage)|
+|15 Points|15 Points|
+|Nebula Graph Throw Pillow|Nebula Graph Hoodie/Sweatshirt|
+|15 Points|50 Points|
 
-### 积分兑换 Nebula 周边
+### How to Redeem
 
-|Nebula 大鼠标垫| Nebula 黑/白鸭舌帽|
-|:-:|:-:|
-|![360x270](https://user-images.githubusercontent.com/38887077/129014361-277c8cf9-aa36-424f-b728-a130f6a9fa43.png)|![360x270](https://user-images.githubusercontent.com/38887077/129014390-830ea22c-5585-426c-aa83-2cec55ac14d2.png)|
-|15 积分|15 积分|
-|![image](https://user-images.githubusercontent.com/38887077/129014413-d9380c7a-dcad-47ab-9453-252cd2ca06d9.png)|![image](https://user-images.githubusercontent.com/38887077/129014445-966c1426-04f6-4ba1-98c4-7ec3aed07f04.png)|
-|Nebula 马克杯|	Nebula 笔记本套装（库存告急）|
-|15 积分|	15 积分|
-|![image](https://user-images.githubusercontent.com/38887077/129014462-37d61b9b-2e39-4b00-906d-301edf8c4848.png)|![image](https://user-images.githubusercontent.com/38887077/129014520-6fc6974b-502d-47c9-b017-eaededcba79a.png)|
-|Nebula 小抱枕	|Nebula 帆布袋|
-|15 积分|	15 积分|
-|![image](https://user-images.githubusercontent.com/38887077/129014555-1437ec5e-f63c-449b-98d5-38e26c6aa9dd.png)|![image](https://user-images.githubusercontent.com/38887077/129014597-0de1ee2f-cc26-4915-9b1c-0b2aece9640d.png)|
-|Nebula T恤|Nebula 卫衣|
-|30 积分|	50 积分|
-|![image](https://user-images.githubusercontent.com/38887077/129014638-76b43c01-5b10-4be7-a473-5b0fa001d3de.png)|/|
-|Nebula 双肩包	|-|
-|100 积分| -|
+Contact Jamie or Stream. 
 
+## More Information
 
-### 兑换流程
-
-找 Nebula 运营：Jamie（微信号：JamieYoung）或者 Steam（evaz0711）兑换礼品；
-
-### 其他
-
-Nebula 会为各位 nStar 记录一份你的专属积分卡，不过由于你的身影出现在微信群、GitHub 和论坛，为了方便认出哪个是你，需要累计积分的小伙伴，麻烦这里填写信息表：[信息表](https://wj.qq.com/s2/8358004/dcb0/)  好让 Nebula 来帮你记录积分。
+Each nStar will have a unique credit point card. The Nebula Graph team will keep and maintain the card for them. However, you may have different accounts in our WeChat group, GitHub repositories, and our forum, so to make sure that you can be recognized clearly, please fill [this form](https://wj.qq.com/s2/8358004/dcb0/) to let us know that you are willing to have these Nebula Graph points. 
 
 
