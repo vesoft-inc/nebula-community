@@ -22,13 +22,13 @@ Nebula 社区存在着一群这种的小伙伴，他们活跃在微信群、Slac
         - Medium 级别，计 10 分；
         - Difficult 级别，计 20 分；
 - 演讲
-        - 在任意非 Nebula 主办的会议上，或者在公司内部，分享 Nebula Graph，计 20 分；
+    - 在任意非 Nebula 主办的会议上，或者在公司内部，分享 Nebula Graph，计 20 分；
 - 组织活动
-        - 组织一场以 Nebula Graph 学习分享为主题的线上或线下活动，计 30 分；
+    - 组织一场以 Nebula Graph 学习分享为主题的线上或线下活动，计 30 分；
 - Nebula 礼券兑换
-        - Nebula 活动礼券换积分，计 15 个积分；
-        - Nebula Active Contributor 礼券换积分，计 20 个积分；
-        - Nebula Active Committer 礼券换积分，计 30 个积分；
+    - Nebula 活动礼券换积分，计 15 个积分；
+    - Nebula Active Contributor 礼券换积分，计 20 个积分；
+    - Nebula Active Committer 礼券换积分，计 30 个积分；
 
 
 注意，捉虫的小伙伴提 bug 可以采用 GitHub issue 和论坛提问两种形式。
