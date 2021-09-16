@@ -1,4 +1,4 @@
-[#Englihs#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans) 
+[#English#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans) 
 
 # Nebula Graph Community
 
