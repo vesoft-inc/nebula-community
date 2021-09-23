@@ -12,8 +12,8 @@ Nebula 社区存在着一群这种的小伙伴，他们活跃在微信群、Slac
     - Nebula 社区举办的 nMeetup，计 1 个积分；
     - 参加  Nebula 社区活动，计 1 个积分；
 - 捉虫
-    - 帮 Nebula 找到一个 bug，计 1 个积分；
-    - 帮 Nebula 找到一个 crash 级别的 bug，计 10 个积分；
+    - 帮 Nebula 找到一个非 `hi-pri` bug，计 1 个积分；
+    - 帮 Nebula 找到一个 crash 级别 `hi-pri` bug，计 10 个积分；
 - 创作
     - 写下自己对 Nebula 的使用心得、踩坑经验之谈、调优小技巧、测评姿势，计 15 个积分；
 - pr
