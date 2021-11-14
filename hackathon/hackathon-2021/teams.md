@@ -1,2 +1,2 @@
-|No.|Tema|Project & Description|RFC| Project GitHub| Note |
+|No.|Team|Project & Description|RFC| Project GitHub| Note |
 |:--:|:--:|:--:|:--:|:--:|:--:|
