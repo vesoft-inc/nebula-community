@@ -17,7 +17,7 @@
     * Yenan Tang —— East China Normal University X-lab
     
 ## Team members recruitment
-### Computer salt drying auxiliary system
+### Computer aided salt drying system
 * Team leader
     * Jiaxun Yang
     * Student from Peking University
