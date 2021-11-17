@@ -9,9 +9,9 @@
 ### OpenGalaxy
 
 * OpenGalaxy
-* 项目构思：利用开源领域的开放数据，构建整个开源世界的协作网络关系图数据库，并通过一些图算法评估项目价值，并最终形成可视化项目
-* 成员
-    * 赵生宇 —— 同济大学 X-lab
-    * 翁振杰 —— 华东师范大学 X-lab
-    * 顾业鸣 —— 华东师范大学 X-lab
-    * 唐烨男 —— 华东师范大学 X-lab
+* The open source world is composed of millions of developers and projects by all the contributions like issues and PRs. We will use open source data to construct the collaborate network on GitHub and use graph algorithm to look into it. Finally we will present the whole open source world to you which is OpenGalaxy.
+* Team members
+    * Shengyu Zhao —— Tongji University X-lab
+    * Zhenjie Weng —— East China Normal University X-lab
+    * Yeming Gu —— East China Normal University X-lab
+    * Yenan Tang —— East China Normal University X-lab
