@@ -22,7 +22,7 @@
 * 项目名：nebula-net & nebula-php
 * 项目简介：从现在开始，我们可以从.NET和PHP中导入Nebula Graph
 * 成员
-   * 何延龙 —— Apache Software Foundation / Apache SkyWaling committer
+   * 何延龙 —— Apache Software Foundation / Apache SkyWalking committer
    * 刘朋芳 —— Xignite / Market data delivery
 
 ## 招募队员项目
