@@ -3,6 +3,7 @@
 |序号|队名|项目名 & 简介|RFC 链接|项目 GitHub 地址| 备注|
 |:--|:--|:--|:--|:--|:--|
 |1|源光闪烁|项目名：OpenGalaxy |待输入|待输入||
+|2|NullReferenceException|项目名：nebula-net & nebula-php |待输入|待输入||
 
 ## 参赛队伍详情
 
@@ -15,6 +16,14 @@
     * 翁振杰 —— 华东师范大学 X-lab
     * 顾业鸣 —— 华东师范大学 X-lab
     * 唐烨男 —— 华东师范大学 X-lab
+
+### NullReferenceException
+
+* 项目名：nebula-net & nebula-php
+* 项目简介：从现在开始，我们可以从.NET和PHP中导入Nebula Graph
+* 成员
+   * 何延龙 —— Apache Software Foundation / Apache SkyWaling committer
+   * 刘朋芳 —— Xignite / Market data delivery
 
 ## 招募队员项目
 
