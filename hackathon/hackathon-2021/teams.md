@@ -22,7 +22,7 @@
 * Project name: nebula-net & nebula-php
 * Project introduction: From now on, we can import Nebula Graph in .NET & PHP.
 * Team members
-   * Yanlong He —— Apache Software Foundation / Apache SkyWaling committer
+   * Yanlong He —— Apache Software Foundation / Apache SkyWalking committer
    * Pengfang Liu —— Xignite / Market data delivery
     
 ## Team members recruitment
