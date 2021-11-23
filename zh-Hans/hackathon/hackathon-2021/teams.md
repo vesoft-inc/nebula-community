@@ -25,6 +25,16 @@
    * 何延龙 —— Apache Software Foundation / Apache SkyWalking committer
    * 刘朋芳 —— Xignite / Market data delivery
 
+### 鹏图数据
+
+* 项目名：电网设备一张图
+* 项目简介：用知识图谱构建一张电网设备图
+* 成员
+   * 杜振卿
+   * 老许
+   * 吉伟
+   * 小浩
+
 ## 招募队员项目
 
 ### 计算机晒盐辅助系统
