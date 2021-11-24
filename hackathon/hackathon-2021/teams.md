@@ -8,17 +8,17 @@
 ## Details for the team
 
 ### OpenGalaxy
-* Details for the team
-     * Project name:OpenGalaxy
-     * Project introduction: The open source world is composed of millions of developers and projects by all the contributions like issues and PRs. We will use open source data to construct the collaborate network on GitHub and use graph algorithm to look into it. Finally we will present the whole open source world to you which is OpenGalaxy.
-     * Team members
-        * Shengyu Zhao —— Tongji University X-lab
-        * Zhenjie Weng —— East China Normal University X-lab
-        * Yeming Gu —— East China Normal University X-lab
-        * Yenan Tang —— East China Normal University X-lab
+
+  * Project name:OpenGalaxy
+  * Project introduction: The open source world is composed of millions of developers and projects by all the contributions like issues and PRs. We will use open source data to construct the collaborate network on GitHub and use graph algorithm to look into it. Finally we will present the whole open source world to you which is OpenGalaxy.
+  * Team members
+      * Shengyu Zhao —— Tongji University X-lab
+      * Zhenjie Weng —— East China Normal University X-lab
+      * Yeming Gu —— East China Normal University X-lab
+      * Yenan Tang —— East China Normal University X-lab
     
 ### NullReferenceException
-* Details for the team
+
    * Project name:nebula-net & nebula-php
    * Project introduction: From now on, we can import Nebula Graph in .NET & PHP.
    * Team members
@@ -26,9 +26,9 @@
       * Pengfang Liu —— Xignite / Market data delivery
     
 ### PengGraph
-* Details for the team
-   * Project name:One diagram to power grid equipment
-   * Project introduction: Construct a diagram to power grid equipment with knowledge graph
+
+   * Project name:One graph to show relationships between power grid equipment
+   * Project introduction: Construct a graph to show relationships between power grid equipment with knowledge graph
    * Team members
       * Zhenqing Du
       * Mr Xu
@@ -36,9 +36,11 @@
       * Xiaohao
    
 ## Team members recruiting
+
 ### Tuzhi Technology
-* Details for the team
-    * Project name:Computer aided salt drying system
+
+  * Project name:Computer aided salt drying system
+  * Details for the team
     * Team leader
         * Jiaxun Yang
         * Student from Peking University
@@ -52,24 +54,26 @@
         * Graph Database
     
 ### Wisdom
-* Details for the team
-        * Project name:Research and development of knowledge base system in design of CNC machine tools 
-   * Team leader
+
+   * Project name:Research and development of knowledge base system in design of CNC machine tools 
+   * Details for the team
+      * Team leader
         * Mr Liu
         * Tiangong University
-   * Requirement for teammates
+      * Requirement for teammates
         * Make sense of NLP
-   * Project name
+      * Project name
         * Research and development of knowledge base system in design of CNC machine tools
-   * The technology fields involved in the project
+      * The technology fields involved in the project
         * NLP
         * Knowledge graph
     
 ### GraphbasedCF
-* Details for the team
-       * Project name:Intelligent recommendation engine based on graph data technology and recommendation algorithm
-   * Team leader
+
+   * Project name:Intelligent recommendation engine based on graph data technology and recommendation algorithm
+   * Details for the team
+     * Team leader
        * Hongfeng Gao
        * Enterprise digital OneID project & Recommendation middle platform, data architect
-   * Requirement for teammates
+     * Requirement for teammates
        * Have experience in at least one of the fields such as graph database technology, recommendation engine, knowledge graph, neural tetwork, or take them as development directions
