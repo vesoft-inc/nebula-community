@@ -9,7 +9,7 @@
 
 ### OpenGalaxy
 
-  * Project name:OpenGalaxy
+  * Project name: OpenGalaxy
   * Project introduction: The open source world is composed of millions of developers and projects by all the contributions like issues and PRs. We will use open source data to construct the collaborate network on GitHub and use graph algorithm to look into it. Finally we will present the whole open source world to you which is OpenGalaxy.
   * Team members
       * Shengyu Zhao —— Tongji University X-lab
@@ -19,7 +19,7 @@
     
 ### NullReferenceException
 
-   * Project name:nebula-net & nebula-php
+   * Project name: nebula-net & nebula-php
    * Project introduction: From now on, we can import Nebula Graph in .NET & PHP.
    * Team members
       * Yanlong He —— Apache Software Foundation / Apache SkyWalking committer
@@ -27,7 +27,7 @@
     
 ### PengGraph
 
-   * Project name:One graph to show relationships between power grid equipment
+   * Project name: One graph to show relationships between power grid equipment
    * Project introduction: Construct a graph to show relationships between power grid equipment with knowledge graph
    * Team members
       * Zhenqing Du
@@ -39,7 +39,7 @@
 
 ### Tuzhi Technology
 
-  * Project name:Computer aided salt drying system
+  * Project name: Computer aided salt drying system
   * Details for the team
     * Team leader
         * Jiaxun Yang
@@ -55,7 +55,7 @@
     
 ### Wisdom
 
-   * Project name:Research and development of knowledge base system in design of CNC machine tools 
+   * Project name: Research and development of knowledge base system in design of CNC machine tools 
    * Details for the team
       * Team leader
         * Mr Liu
@@ -70,7 +70,7 @@
     
 ### GraphbasedCF
 
-   * Project name:Intelligent recommendation engine based on graph data technology and recommendation algorithm
+   * Project name: Intelligent recommendation engine based on graph data technology and recommendation algorithm
    * Details for the team
      * Team leader
        * Hongfeng Gao
