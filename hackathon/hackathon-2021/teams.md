@@ -4,6 +4,12 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |1| Allumos|OpenGalaxy |Pending Input|Pending Input||
 |2| NullReferenceException|nebula-net & nebula-php |Pending Input|Pending Input||
+|3| PengGraph|One graph to show relationships between power grid equipment |Pending Input|Pending Input||
+|4| Gamora|Gamora |Pending Input|Pending Input||
+|5| Tuzhi Technology|Computer aided salt drying system |Pending Input|Pending Input||
+|6| Wisdom|Research and development of knowledge base system in design of CNC machine tools |Pending Input|Pending Input||
+|7| GraphbasedCF|Intelligent recommendation engine based on graph data technology and recommendation algorithm |Pending Input|Pending Input||
+
 
 ## Details for the team
 
@@ -34,6 +40,12 @@
       * Mr Xu
       * Jiwei
       * Xiaohao
+### Gamora
+
+   * Project name： Gamora
+   * Project Introduction：Build a distributed persistent Redis by modifying Nebula kernel. 
+   * Team members
+        * Mr Luo
    
 ## Team members recruiting
 
