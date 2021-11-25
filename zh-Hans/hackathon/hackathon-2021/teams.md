@@ -35,6 +35,12 @@
    * 老许
    * 吉伟
    * 小浩
+### 卡魔拉
+
+* 项目名：Gamora
+* 项目简介：把 Nebula Graph 改造成分布式持久型 Redis。给 Nebula 添加一个和 Graph Server 平行的 RedisServer，功能是接受 Redis 客户端请求并解析成 KV 操作转发给 StorageServer，RedisServer + StorageServer + MetaServer 组成 Gamora。
+* 成员
+   * 罗先生
 
 ## 招募队员项目
 
