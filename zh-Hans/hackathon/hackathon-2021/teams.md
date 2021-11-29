@@ -6,11 +6,11 @@
 |2|[NullReferenceException](#NullReferenceException)|项目名：nebula-net & nebula-php |待输入|待输入||
 |3|[鹏图数据](#鹏图数据)|项目名：电网设备一张图 |待输入|待输入||
 |4|[卡魔拉](#卡魔拉)|项目名：Gamora |待输入|待输入||
-|5|[Alice, Bob and Ciri](#Alice, Bob and Ciri)|项目名：ppgi |待输入|待输入||
+|5|[Alice, Bob and Ciri](#alice-bob-and-ciri)|项目名：ppgi |待输入|待输入||
 |6|[图智科技](#图智科技)|项目名：计算机晒盐辅助系统 |待输入|待输入|🙋‍♂️ 找队友|
 |7|[智联队](#智联队)|项目名：数控机床设计选型知识库构建 |待输入|待输入|🙋‍♂️ 找队友|
 |8|[喵星人与汪星人](#喵星人与汪星人)|项目名：基于图数据技术和推荐算法融合的智能推荐引擎设计 |待输入|待输入|🙋‍♂️ 找队友|
-|9|[Winter is Coming](#Winter is Coming)|项目名：raft 优化 |待输入|待输入|🙋‍♂️ 找队友|
+|9|[Winter is Coming](#Winter-is-Coming)|项目名：raft 优化 |待输入|待输入|🙋‍♂️ 找队友|
 
 ## 参赛队伍详情
 
