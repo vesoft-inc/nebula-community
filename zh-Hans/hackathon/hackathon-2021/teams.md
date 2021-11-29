@@ -6,6 +6,7 @@
 |2|NullReferenceException|项目名：nebula-net & nebula-php |待输入|待输入||
 |3|鹏图数据|项目名：电网设备一张图 |待输入|待输入||
 |4|卡魔拉|项目名：Gamora |待输入|待输入||
+|5|Alice, Bob and Ciri|项目名：ppgi |待输入|待输入||
 
 ## 参赛队伍详情
 
@@ -43,6 +44,14 @@
 * 项目简介：把 Nebula Graph 改造成分布式持久型 Redis。给 Nebula 添加一个和 Graph Server 平行的 RedisServer，功能是接受 Redis 客户端请求并解析成 KV 操作转发给 StorageServer，RedisServer + StorageServer + MetaServer 组成 Gamora。
 * 成员
    * 罗先生
+
+### Alice, Bob and Ciri
+
+* 项目名：ppgi
+* 项目简介：利用隐私计算技术，实现隐私保护下的图数据合并。
+* 成员
+   * Ed Wang，GitHub 地址：[https://github.com/knwng](https://github.com/knwng)
+   * Zilin Zhu，GitHub 地址：[https://github.com/zhuzilin](https://github.com/zhuzilin)
 
 ## 招募队员项目
 
@@ -93,3 +102,19 @@
 * 项目信息
    * 项目名
        * 基于图数据技术和推荐算法融合的智能推荐引擎设计
+
+### Winter is Coming
+
+* 队伍信息
+    * 队名
+        * Winter is Coming
+   * 队长
+       * 李伟明
+       * 中国人民大学信息学院
+   * 队员要求
+       * 了解raft并且会c++
+* 项目信息
+   * 项目名
+       * raft 优化
+       * 阅读nebula-storage源码，进行raft层的优化
+
