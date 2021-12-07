@@ -162,7 +162,7 @@
        * 图像分类
        * 图数据库
 * 成员
-   * Ed Wang，GitHub 地址：[ModestYjx](https://github.com/ModestYjx)
+   * ModestYjx，GitHub 地址：[ModestYjx](https://github.com/ModestYjx)
 
 ### Winter is Coming
 
