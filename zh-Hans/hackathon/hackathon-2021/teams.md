@@ -191,7 +191,7 @@
        * 北京地区大学生优先
        * 会编程技术，或者对市场分析、盈利模式有了解
    * 现有队员
-      * Ed Wang，GitHub 地址：[ModestYjx](https://github.com/ModestYjx)
+      * ModestYjx，GitHub 地址：[ModestYjx](https://github.com/ModestYjx)
 
 * 项目信息
    * 项目名
