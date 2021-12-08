@@ -20,7 +20,7 @@
 |16|[rise](#rise)|项目名：数据库诊断工具 |待输入|待输入||
 |17|[非常完美队](#非常完美队)|项目名：nebula-terminal-dashboard |待输入|待输入||
 |18|[算算](#算算)|项目名：graphmatrix |[单机的图计算能力和可视化zoom in/out](https://github.com/vesoft-inc/nebula-community/issues/58)|待输入||
-|19|[悬挂边队](#悬挂边队)|项目名：悬挂点优化 |[悬挂边和超级节点](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
+|19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |待输入|待输入||
 |21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |待输入|待输入||
 |22|[M42](#M42)|项目名： |待输入|待输入||
@@ -154,7 +154,7 @@
 
 ### 悬挂边队
 
-* 项目名：悬挂边处理
+* 项目名：悬挂边和超级节点
 * 项目简介：修改存储的数据结构，控制悬挂边和点的出入度
 * 成员
    *  吴敏
