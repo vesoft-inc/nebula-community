@@ -135,7 +135,7 @@
 
 ### 非常完美队
 
-* 项目名：--
+* 项目名：nebula-terminal-dashboard
 * 项目简介：基于 nebula-stats-exporter 的 terminal 版运维监控工具
 * 成员
    *  张早
