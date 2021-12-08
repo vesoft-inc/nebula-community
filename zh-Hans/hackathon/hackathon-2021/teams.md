@@ -80,7 +80,7 @@
 * 项目简介：集成分布式追踪到 Nebula Graph 并可视化
 * 成员
    * 钟世豪，Massmutual 大数据开发
-   * 
+   * 王鹏翰，appDynamics 日志搜索引擎研发
 
 ### 喵星人与汪星人
 
