@@ -2,27 +2,27 @@
  
 |No.|Team|Project & Description|RFC| Project GitHub| Note |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|1| [Allumos|OpenGalaxy](#Allumos|OpenGalaxy)|Pending Input|Pending Input||
+|1| [Allumos](#Allumos)|OpenGalaxy|Pending Input|Pending Input||
 |2| [NullReferenceException](#NullReferenceException)|nebula-net & nebula-php |Pending Input|Pending Input||
 |3| [PengGraph](#PengGraph)|One graph to show relationships between power grid equipment |Pending Input|Pending Input||
 |4| [Gamora](#Gamora)|Gamora |Pending Input|Pending Input||
-|5| [Alice, Bob and Ciri](#Alice, Bob and Ciri)|ppgi|Pending Input|Pending Input||
+|5| [Alice, Bob and Ciri](#AliceBobandCiri)|ppgi|Pending Input|Pending Input||
 |6| [WisdomTogether](#WisdomTogether)|Research and development of knowledge base system in design of CNC machine tools |Pending Input|Pending Input|Recruiting|
-|7| [Pingan Technology](#Pingan Technology)|One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence|Pending Input|Pending Input||
+|7| [Pingan Technology](#PinganTechnology)|One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence|Pending Input|Pending Input||
 |8| [GraphbasedCF](#GraphbasedCF)|Intelligent recommendation engine based on graph data technology and recommendation algorithm |Pending Input|Pending Input||
-|9| [Winter is Coming](#Winter is Coming)|raft optimization|Pending Input|Pending Input|Recruiting|
-|10| [Intelligent Learning](#Intelligent Learning)|Learning assistant|Pending Input|Pending Input||
-|11| [Nebula No.1](#Nebula No.1)|UDF Enhanced Nebula|Pending Input|Pending Input||
-|12| [IT Worker](#IT Worker)|Pending Input|Pending Input|Pending Input||
-|13| [Other Side](#Other Side)|Open Telemetry|Pending Input|Pending Input||
+|9| [Winter is Coming](#WinterisComing)|raft optimization|Pending Input|Pending Input|Recruiting|
+|10| [Intelligent Learning](#IntelligentLearning)|Learning assistant|Pending Input|Pending Input||
+|11| [Nebula No.1](#NebulaNo.1)|UDF Enhanced Nebula|Pending Input|Pending Input||
+|12| [IT Worker](#ITWorker)|Pending Input|Pending Input|Pending Input||
+|13| [Other Side](#OtherSide)|Open Telemetry|Pending Input|Pending Input||
 |14| [node_module](#node_module)|nebula-node|Pending Input|Pending Input||
 |15| [Linjiangxian](#Linjiangxian)|The Great Adventure on Graph Database inspired by an ancient Poetry|Pending Input|Pending Input|Recruiting|
 |16| [rise](#rise)|Database Diagnostic Tool|Pending Input|Pending Input||
-|17| [Perfect One](#Perfect One)|nebula-terminal-dashboard|Pending Input|Pending Input||
-|18| [Computing Geeks](#Computing Geeks)|graphmatrix|Standalone graph computing capability and visualization|Pending Input||
-|19| [Dangling Edges](#Dangling Edges)|graphmatrix|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|Pending Input||
+|17| [Perfect One](#PerfectOne)|nebula-terminal-dashboard|Pending Input|Pending Input||
+|18| [Computing Geeks](#ComputingGeeks)|graphmatrix|Standalone graph computing capability and visualization|Pending Input||
+|19| [Dangling Edges](#DanglingEdges)|graphmatrix|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|Pending Input||
 |20| [AI-Com](#AI-Com)|Retail Behavior Discovery|[Retail Behavior Discovery](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|Pending Input||
-|21| [Attractive Restaurant](#Attractive Restaurant)|Feel relaxed with Nebula Graph in-depth query|Pending Input|Pending Input||
+|21| [Attractive Restaurant](#AttractiveRestaurant)|Feel relaxed with Nebula Graph in-depth query|Pending Input|Pending Input||
 |22| [M42](#M42)|--|Pending Input|Pending Input||
 
 
@@ -207,7 +207,7 @@
    * Team members
       * ModestYjx, GitHub link: [ModestYjx](https://github.com/ModestYjx)
 
-* Deatils for the project
+* Details for the project
    * Project name
        * One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence
    * Project Introduction
