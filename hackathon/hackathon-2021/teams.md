@@ -2,7 +2,7 @@
  
 |No.|Team|Project & Description|RFC| Project GitHub| Note |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|1| [Allumos|OpenGalaxy](Allumos|OpenGalaxy)|Pending Input|Pending Input||
+|1| [Allumos|OpenGalaxy](#Allumos|OpenGalaxy)|Pending Input|Pending Input||
 |2| [NullReferenceException](#NullReferenceException)|nebula-net & nebula-php |Pending Input|Pending Input||
 |3| [PengGraph](#PengGraph)|One graph to show relationships between power grid equipment |Pending Input|Pending Input||
 |4| [Gamora](#Gamora)|Gamora |Pending Input|Pending Input||
@@ -19,7 +19,7 @@
 |15| [Linjiangxian](#Linjiangxian)|The Great Adventure on Graph Database inspired by an ancient Poetry|Pending Input|Pending Input|Recruiting|
 |16| [rise](#rise)|Database Diagnostic Tool|Pending Input|Pending Input||
 |17| [Perfect One](#Perfect One)|nebula-terminal-dashboard|Pending Input|Pending Input||
-|18| [Computing Geeks](Computing Geeks)|graphmatrix|Standalone graph computing capability and visualization|Pending Input||
+|18| [Computing Geeks](#Computing Geeks)|graphmatrix|Standalone graph computing capability and visualization|Pending Input||
 |19| [Dangling Edges](#Dangling Edges)|graphmatrix|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|Pending Input||
 |20| [AI-Com](#AI-Com)|Retail Behavior Discovery|[Retail Behavior Discovery](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|Pending Input||
 |21| [Attractive Restaurant](#Attractive Restaurant)|Feel relaxed with Nebula Graph in-depth query|Pending Input|Pending Input||
@@ -31,7 +31,7 @@
 ### Allumos
 
   * Project name: OpenGalaxy
-  * Project introduction: The open source world is composed of millions of developers and projects by all the contributions like issues and PRs. We will use open source data to construct the collaborate network on GitHub and use graph algorithm to look into it. Finally we will present the whole open source world to you which is OpenGalaxy.
+  * Project introduction: The open source world is composed of millions of developers and projects by all the contributions like issues and PRs. We will use open source data to construct the collaborative network on GitHub and use graph algorithms to look into it. Finally, we will present the whole open source world to you which is OpenGalaxy.
   * Team members
       * Shengyu Zhao —— Tongji University X-lab
       * Zhenjie Weng —— East China Normal University X-lab
@@ -68,8 +68,8 @@
 * Project name: ppgi
 * Project Introduction: Use privacy computing technology to realize graph data merging with privacy protection.
 * Team members
-   * Ed Wang，GitHub link: [https://github.com/knwng](https://github.com/knwng)
-   * Zilin Zhu，GitHub link: [https://github.com/zhuzilin](https://github.com/zhuzilin)
+   * Ed Wang, GitHub link: [https://github.com/knwng](https://github.com/knwng)
+   * Zilin Zhu, GitHub link: [https://github.com/zhuzilin](https://github.com/zhuzilin)
 
 ### IT Worker
 
@@ -212,7 +212,7 @@
        * One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence
    * Project Introduction
        * In recent years, strawberry picking tourism has been popular. This project aims to design an artificial intelligence-based software to realize strawberry maturity detection, crop knowledge popularization and digital agricultural management. This software will ensure that tourists can pick the most mature strawberries as soon as possible, popularize rural experience education for primary and secondary school students, so that the tourist experience is improved and the manpower employment cost is saved.
-   * The technology fields involved in the project
+   * The technology involved in the project
        * Image classification
        * Graph database
 
@@ -225,9 +225,9 @@
        * Weiming Li
        * School of Information Renmin University of China
    * Requirements for teammates
-       * Have the knowledge of raft and c++
+       * Have the knowledge of raft and C++
 
-* Deatils for the project
+* Deatails for the project
    * Project name
        * raft optimization
        * Read the source code of nebula-storage to optimize the raft layer
@@ -241,9 +241,9 @@
    * Team leader
        * Jiankui Wang, head of Baidu Big Data Team
    * Requirements for teammates
-       * have the ability to develop mini apps and relevant development experience 
+       * Have the ability to develop mini apps and relevant development experience 
        
-* Deatils for the project
+* Deatails for the project
    * Project name
        * The Great Adventure on Graph Database inspired by an ancient Poetry
 
