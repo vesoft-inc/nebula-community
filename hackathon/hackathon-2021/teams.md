@@ -73,8 +73,8 @@
 
 ### IT Worker
 
-* Project name: pending input
-* Project Introduction: pending input
+* Project name: Pending input
+* Project Introduction: Pending input
 * Team members
    * Tango, software test engineer
 
@@ -83,30 +83,30 @@
 * Project name: Open Telemetry
 * Project Introduction: Integrate OpenTelemetry to trace and visualize Nebula Graph 
 * Team members
-   * Shihao Zhong, a big data engineer from Massmutual
-   * Penghan Wang, a log search engine engineer from AppDynamics
+   * Shihao Zhong, big data engineer from Massmutual
+   * Penghan Wang, log search engine engineer from AppDynamics
 
 ### GraphbasedCF
 
    * Project name: Graph Recommendation Engine 
    * Project Introduction: Intelligent recommendation engine based on graph data technology and recommendation algorithm
    * Team members
-      * Hongfeng Gao, a data architect for enterprise digital OneID project & Recommendation middle platform
-      * Zhizuo Zhang, major in neural network design of Peking University, proficient in AI, CV, deep rl, NLP background, and Python and C++
+      * Hongfeng Gao, data architect for enterprise digital OneID project & Recommendation middle platform
+      * Zhizuo Zhang, major in neural network design of Peking University and proficient in AI, CV, deep rl, NLP, Python and C++
       * Siyuan Chen, proficient in supply chain intelligent replenishment, privacy computing, machine learning, algorithms, python, tensorflow and other machine learning frameworks
            
-### node_module
+### Node_module
 
-* Project name: nebula-node
-* Project Introduction: develop a Nebula Graph client for Node.js
+* Project name: Nebula-node
+* Project Introduction: Develop a Nebula Graph client for Node.js
 * Team members
-   *  Baoli Zhang, a knowledge graph engineer from Qichacha
-   *  Jianping Wu, a senior back-end engineer from Qichacha
+   *  Baoli Zhang, knowledge graph engineer from Qichacha
+   *  Jianping Wu, senior back-end engineer from Qichacha
 
 ### rise
 
 * Project name: Database Diagnostic Tool
-* Project Introduction: collect information for each database host, intelligently diagnose the service and machine information of each host, whether they are working normally or abnormally.
+* Project Introduction: Collect information for each database host, intelligently diagnose the service and machine information of each host, and make sure whether each host is operating normally or not.
 * Team members
    *  Jianhui Zhang, student from Southwest University
    *  Jingliu Xiong, student from Southwest University
@@ -116,12 +116,12 @@
 * Details for the project
    * Project name:
        * Research and development of knowledge base system in design of CNC machine tools
-   * The technology fields involved in the project
+   * The technology involved in the project
        * NLP
        * Knowledge graph
 * Team members
    *  Mr Liu, student from Tiangong University
-   *  Xiang Wang, a medical natural language processing engineer from DataArk
+   *  Xiang Wang, medical natural language processing engineer from DataArk
    
 ### Nebula No.1
 
@@ -129,7 +129,7 @@
 * Project Introduction: Realize Nebula Graph user-defined functions based on Wasm.
 * Team members
    *  arcosx, proficient in machine learning and cloud native
-   *  TripleZ，a back-end engineer and open source enthusiast
+   *  TripleZ, back-end engineer and open source enthusiast
 
 ### Perfect One
 
@@ -143,7 +143,7 @@
 ### Computing Geeks
 
 * Project name: graphmatrix
-* Project Introduction: Enhance the graph computing capability of the stand-alone Nebula Graph and make this capability be compatible with the original nGQL grammar
+* Project Introduction: Enhance the graph computing capability of the stand-alone Nebula Graph and make it be compatible with the original nGQL grammar
 * Team members
    *  Min Wu
    *  Xinglu Yi
@@ -161,7 +161,7 @@
 * Project name: Retail Behavior Discovery
 * Project Introduction: Use Nebula Graph to replace traditional databases for intelligent discovery of retail behavior
 * Team members
-   *  jack, a database developer
+   *  jack, database developer
    *  Meiyinglingluo, junior student major in computational mathematics
 
 ### Attractive Restaurant  
@@ -177,7 +177,7 @@
 ### M42
 
 * Project name: --
-* Project Introduction: The project mainly optimizes the different layers of Nebula storage to improve Nebula Graph TP query performance, including Nebula Graph storage engine optimization, architecture optimization, caching, etc.
+* Project Introduction: The project mainly optimizes different layers of Nebula storage to improve Nebula Graph TP query performance, including Nebula Graph storage engine optimization, architecture optimization, caching, etc.
 * Team members
    *  Hao Wen
    *  Mingquan Ji
@@ -205,13 +205,13 @@
        * College students in Beijing are preferred
        * Proficient in programming, or have an understanding of market analysis and profit models
    * Team members
-      * ModestYjx，GitHub link: [ModestYjx](https://github.com/ModestYjx)
+      * ModestYjx, GitHub link: [ModestYjx](https://github.com/ModestYjx)
 
 * Deatils for the project
    * Project name
        * One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence
    * Project Introduction
-       * In recent years, strawberry picking tourism has been popular. This project aims to design an artificial intelligence-based software to realize strawberry maturity detection, crop knowledge popularization and digital agricultural management. This software will ensure that tourists can pick the most mature strawberries as soon as possible, popularize rural experience education for primary and secondary school students, so that the tourist experience is improved and the manpower employment cost is saved.
+       * In recent years, strawberry picking tourism has been popular. This project aims to design an artificial intelligence-based software to realize strawberry maturity detection, crop knowledge popularization, and digital agricultural management. This software will ensure that tourists can pick the most mature strawberries as soon as possible and that rural experience programs can be popular among primary and secondary school students. In this way, tourist experience is improved and the labor cost is saved.
    * The technology involved in the project
        * Image classification
        * Graph database
@@ -246,8 +246,4 @@
 * Deatails for the project
    * Project name
        * The Great Adventure on Graph Database inspired by an ancient Poetry
-
-    
-
-    
 
