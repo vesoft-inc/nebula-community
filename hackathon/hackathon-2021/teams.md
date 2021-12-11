@@ -20,11 +20,11 @@
 |16| [rise](#rise)|Database Diagnostic Tool|Pending Input|Pending Input||
 |17| [Perfect One](#PerfectOne)|nebula-terminal-dashboard|Pending Input|Pending Input||
 |18| [Computing Geeks](#ComputingGeeks)|graphmatrix|Standalone graph computing capability and visualization|Pending Input||
-|19| [Dangling Edges](#DanglingEdges)|graphmatrix|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|Pending Input||
-|20| [AI-Com](#AI-Com)|Retail Behavior Discovery|[Retail Behavior Discovery](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|Pending Input||
+|19| [Dangling Edges](#DanglingEdges)|graphmatrix|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)||
+|20| [AI-Com](#AI-Com)|Retail Behavior Discovery|[Retail Behavior Discovery](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)||
 |21| [Attractive Restaurant](#AttractiveRestaurant)|Feel relaxed with Nebula Graph in-depth query|Pending Input|Pending Input||
 |22| [M42](#M42)|--|Pending Input|Pending Input||
-
+|23| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
 
 ## Details for the team
 
@@ -128,7 +128,7 @@
 * Project name: UDF Enhanced Nebula
 * Project Introduction: Realize Nebula Graph user-defined functions based on Wasm.
 * Team members
-   *  arcosx, proficient in machine learning and cloud native
+   *  Arcosx, proficient in machine learning and cloud native
    *  TripleZ, back-end engineer and open source enthusiast
 
 ### Perfect One
@@ -161,7 +161,7 @@
 * Project name: Retail Behavior Discovery
 * Project Introduction: Use Nebula Graph to replace traditional databases for intelligent discovery of retail behavior
 * Team members
-   *  jack, database developer
+   *  Jack, database developer
    *  Meiyinglingluo, junior student major in computational mathematics
 
 ### Attractive Restaurant  
@@ -186,10 +186,19 @@
 
 * Project name: Learning assistant
 * Project Introduction: Focus on intelligent knowledge management, intelligent documents and assistants to develop a new generation of knowledge carriers, simplifying the knowledge and promoting learning innovation!
+* Team members
     * Zhenhua Zhao
     * Youshuai Wang
     * Sun
     * Wushang
+
+### Ashwini kumar Pal
+
+* Project name: Nebula-DGL
+* Project Introduction: Pending input
+* Team member
+    * Ashwini kumar Pal, graph ML pracitioner
+ 
   
 ## Team members recruiting
 
