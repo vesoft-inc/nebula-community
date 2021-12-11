@@ -24,7 +24,7 @@
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |[https://github.com/jackhackson/hackathon-2021/blob/main/README.md](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|待输入||
 |21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |待输入|待输入||
 |22|[M42](#M42)|项目名： |待输入|待输入||
-
+|23|[活点地图](#活点地图)|项目名： 元数据治理 |待输入|待输入||
 
 \*注：按组队时间先后排序，先完成组队排名靠前
 
@@ -196,6 +196,13 @@
     * 王有帅
     * Sun
     * 无上
+
+### 活点地图
+
+* 项目名：活点地图
+* 项目简介：Nebula Graph 的元数据治理、数据血缘 PoC
+* 成员
+    * 古思为
 
 ## 招募队员项目
 
