@@ -6,7 +6,7 @@
 |2|[NullReferenceException](#NullReferenceException)|项目名：nebula-net & nebula-php |待输入|待输入||
 |3|[鹏图数据](#鹏图数据)|项目名：电网设备一张图 |待输入|待输入||
 |4|[卡魔拉](#卡魔拉)|项目名：Gamora |待输入|待输入||
-|5|[Alice, Bob and Ciri](#alice-bob-and-ciri)|项目名：ppgi |待输入|待输入||
+|5|[Alice, Bob and Ciri](#alice-bob-and-ciri)|项目名：ppgi |https://docs.google.com/document/d/1AWWKMocy6VV27nzAYF5opfXE1TdYDmN9lEcmt1uE3Cg/edit?usp=sharing|https://github.com/knwng/ppgi||
 |6|[平岸科技队](#平岸科技队)|项目名：基于Nebula的计算机智能辅助草莓采摘农业旅游解决方案 |https://github.com/ModestYjx/StrawberryPickingSolution/blob/main/README.md|https://github.com/ModestYjx/StrawberryPickingSolution|🙋‍♂️ 找队友|
 |7|[智联队](#智联队)|项目名：数控机床设计选型知识库构建 |待输入|待输入||
 |8|[喵星人与汪星人](#喵星人与汪星人)|项目名：基于图数据技术和推荐算法融合的智能推荐引擎设计 |待输入|待输入||
