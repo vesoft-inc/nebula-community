@@ -16,7 +16,7 @@
 |12|[IT蜗壳](#IT蜗壳)|项目名：暂无 |待输入|待输入||
 |13|[Other Side](#Other-Side)|项目名：Open Telemetry |待输入|待输入||
 |14|[node_module](#node_module)|项目名：nebula-node |待输入|待输入||
-|15|[临江仙](#临江仙)|项目名：一首古诗带来的图数据库大冒险 |待输入|待输入|🙋‍♂️ 找队友|
+|15|[临江仙](#临江仙)|项目名：一首古诗带来的图数据库大冒险 |https://github.com/Jerrick/a-tour-of-poetry/blob/main/README.md|https://github.com/Jerrick/a-tour-of-poetry|🙋‍♂️ 找队友|
 |16|[rise](#rise)|项目名：数据库诊断工具 |待输入|待输入||
 |17|[非常完美队](#非常完美队)|项目名：nebula-terminal-dashboard |待输入|待输入||
 |18|[算算](#算算)|项目名：graphmatrix |[单机的图计算能力和可视化zoom in/out](https://github.com/vesoft-inc/nebula-community/issues/58)|待输入||
@@ -252,8 +252,10 @@
         * 临江仙
    * 队长
        * 王建奎，百度大数据团队负责人
+       * 淞，搜狐资深前端
+       * hera，nebula迷人的小姐姐
    * 队员要求
-       * 具备小程序开发能力、具有相关开发经验的同学优先
+       * 熟悉nebula graph的后端研发
 * 项目信息
    * 项目名
        * 一首古诗带来的图数据库大冒险
