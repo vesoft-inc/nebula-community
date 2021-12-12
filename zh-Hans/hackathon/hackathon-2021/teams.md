@@ -2,7 +2,7 @@
 
 |序号|队名|项目名 & 简介|RFC 链接|项目 GitHub 地址| 备注|
 |:--|:--|:--|:--|:--|:--|
-|1|[源光闪烁](#源光闪烁)|项目名：OpenGalaxy |待输入|待输入||
+|1|[源光闪烁](#源光闪烁)|项目名：OpenGalaxy |[RFC doc](https://github.com/X-lab2017/open-galaxy/blob/nebula-hackathon/RFC.md)|[Project repo](https://github.com/X-lab2017/open-galaxy/)|[Project demo](https://open-galaxy.x-lab.info/)|
 |2|[NullReferenceException](#NullReferenceException)|项目名：nebula-net & nebula-php |待输入|待输入||
 |3|[鹏图数据](#鹏图数据)|项目名：电网设备一张图 |待输入|待输入||
 |4|[卡魔拉](#卡魔拉)|项目名：Gamora |待输入|待输入||
