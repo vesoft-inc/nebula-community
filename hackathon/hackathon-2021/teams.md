@@ -25,6 +25,7 @@
 |21| [Attractive Restaurant](#AttractiveRestaurant)|Feel relaxed with Nebula Graph in-depth query|Pending Input|Pending Input||
 |22| [M42](#M42)|--|Pending Input|Pending Input||
 |23| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
+|24| [Dinamo](#Dinamo)|GraphYourCodeVulnerability|Validation of GitHub projects exposure to CVE vulnerabilities|Pending Input||
 
 ## Details for the team
 
@@ -256,3 +257,45 @@
    * Project name
        * The Great Adventure on Graph Database inspired by an ancient Poetry
 
+
+### Dinamo
+
+* Details of the team
+   * Team name
+        * Dinamo
+   * Team leader
+       * Goran Cvijanovic
+   * Team members
+       * Mirano Tuk
+
+* Deatails for the project
+   * Project name: GraphYourCodeVulnerability
+   * Project Introduction: Validation of GitHub projects exposure to CVE vulnerabilities
+
+   * Project Briefing
+      * Enable owner or user of the project hosted on GitHub to request validation of their exposure to CVE vulnerabilities.
+Software will use info in repository about libraries and other referencing objects and collect information from other publicly available sources.
+It will display graph of connected objects with their versions with detected vulnerabilities and exploits existing in the code.
+In descriptions of CVE vulnerabilities visualized on graph, software will suggest to user to use patched versions of the libraries to improve security and avoid potential hacker attacks.
+
+   * Project Background
+       * Project will use Nebula Graph to enable graph traversals and pivoting of the source code objects to enable user to have 360 degree view of the project structure
+with dependencies to libraries and connected repositories cross linked with CVE vulnerabilities. Nice feature will be support for full-text search to easy filter elements of the graph
+and find objects of interest. Search will be enabled using Nebula integration with Elasticsearch engine and custom python parser and search primitives.
+
+   * Project Value
+       * Choosing existing code from other projects can include vulnerable code and libraries which are already exploited, that is especially true for relatively older code.
+This project will enable user to validate exposure of the repository elements to known vulnerabilities and protect their own product and improve security of the software.
+
+   * Project Design
+       * Project will be developed in python and deployed as web application with Nebula Graph as backend database:
+           - Custom python code for web application service
+           - Nginx web server
+           - Nebula Graph database integrated with Elasticsearch engine
+           - Java Script visualization library
+
+   * Project Testing
+       * Project will be deployed on publicly available application server behind Nginx reverse proxy.
+Data set will have already populated graph objects for most popular GitHub repositories, for more than 32000 repositories.
+Users can select any of them and check vulnerability status of all components included in visually attractive graph representation supported with full-text search option.
+For testing we will examine vulnerabilities for https://github.com/vesoft-inc/nebula
