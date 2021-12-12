@@ -17,7 +17,7 @@
 |13|[Other Side](#Other-Side)|项目名：Open Telemetry |待输入|待输入||
 |14|[node_module](#node_module)|项目名：nebula-node |待输入|待输入||
 |15|[临江仙](#临江仙)|项目名：一首古诗带来的图数据库大冒险 |https://github.com/Jerrick/a-tour-of-poetry/blob/main/README.md|https://github.com/Jerrick/a-tour-of-poetry|🙋‍♂️ 找队友|
-|16|[rise](#rise)|项目名：数据库诊断工具 |待输入|待输入||
+|16|[rise](#rise)|项目名：数据库诊断工具 |[rfc](https://www.yuque.com/cairusigoudenanpeijiao/phtgpc/vn6ms9)|待输入||
 |17|[非常完美队](#非常完美队)|项目名：nebula-terminal-dashboard |待输入|待输入||
 |18|[算算](#算算)|项目名：graphmatrix |[单机的图计算能力和可视化zoom in/out](https://github.com/vesoft-inc/nebula-community/issues/58)|待输入||
 |19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
