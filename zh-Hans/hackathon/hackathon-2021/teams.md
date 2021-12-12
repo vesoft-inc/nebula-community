@@ -10,7 +10,7 @@
 |6|[平岸科技队](#平岸科技队)|项目名：基于Nebula的计算机智能辅助草莓采摘农业旅游解决方案 |https://github.com/ModestYjx/StrawberryPickingSolution/blob/main/README.md|https://github.com/ModestYjx/StrawberryPickingSolution|🙋‍♂️ 找队友|
 |7|[智联队](#智联队)|项目名：数控机床设计选型知识库构建 |待输入|待输入||
 |8|[喵星人与汪星人](#喵星人与汪星人)|项目名：基于图数据技术和推荐算法融合的智能推荐引擎设计 |[https://github.com/baronbigghf/graph-based-cf/blob/main/README.md](https://github.com/baronbigghf/graph-based-cf/blob/main/README.md)|待输入||
-|9|[Winter is Coming](#winter-is-coming)|项目名：raft 优化 |待输入|待输入|🙋‍♂️ 找队友|
+|9|[Winter is Coming](#winter-is-coming)|项目名：raft 优化 |[https://docs.google.com/document/d/1ENl2_c3-vXYf36AU6iJCTpjrUFVAtjoXc1aclU5xHyA/edit?usp=sharing](https://docs.google.com/document/d/1ENl2_c3-vXYf36AU6iJCTpjrUFVAtjoXc1aclU5xHyA/edit?usp=sharing)|待输入|🙋‍♂️ 找队友|
 |10|[学记智能](#学记智能)|项目名：学记助理，智能知识管理 |待输入|待输入||
 |11|[星云之巅](#星云之巅)|项目名：UDF Enhanced Nebula |待输入|待输入||
 |12|[IT蜗壳](#IT蜗壳)|项目名：暂无 |待输入|待输入||
@@ -23,8 +23,9 @@
 |19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |[https://github.com/jackhackson/hackathon-2021/blob/main/README.md](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|待输入||
 |21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |待输入|待输入||
-|22|[M42](#M42)|项目名： |待输入|待输入||
+|22|[M42](#M42)|项目名： Fly to M78|待输入|待输入||
 |23|[活点地图](#活点地图)|项目名： 元数据治理 |待输入|待输入||
+|24|[图学习兴趣小队](#图学习兴趣小队)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|待输入||
 
 \*注：按组队时间先后排序，先完成组队排名靠前
 
@@ -107,7 +108,6 @@
    *  巫建平，企查查高级后端开发
 
 ### rise
-
 
 * 项目名：数据库诊断工具
 * 项目简介：对各个数据库节点进行信息收集，智能诊断每个节点的服务与机器信息，确定每个节点是否正常工作，是否处于异常。
@@ -203,6 +203,16 @@
 * 项目简介：Nebula Graph 的元数据治理、数据血缘 PoC
 * 成员
     * 古思为
+
+### 图学习兴趣小队
+
+* 项目名：Euler Based on Nebula Graph
+* 项目简介：NebulaGraph替换Euler2原生的内存图引擎，让图数据库的用户可以低成本的尝试图学习能力。
+* 成员
+    * 杨鑫
+    * 梁帅
+    * 高辰
+    * 尊远
 
 ## 招募队员项目
 
