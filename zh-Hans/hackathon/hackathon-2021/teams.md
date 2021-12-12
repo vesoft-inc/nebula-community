@@ -26,6 +26,7 @@
 |22|[M42](#M42)|项目名： Fly to M78|待输入|待输入||
 |23|[活点地图](#活点地图)|项目名： 元数据治理 |待输入|待输入||
 |24|[图学习兴趣小队](#图学习兴趣小队)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|待输入||
+|24|[咕咕咕](#咕咕咕)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|待输入||
 
 \*注：按组队时间先后排序，先完成组队排名靠前
 
@@ -213,6 +214,13 @@
     * 梁帅
     * 高辰
     * 尊远
+
+### 咕咕咕
+
+* 项目名：Index Advisor
+* 项目简介：可以推荐去增加或删除索引
+* 成员
+    * Reminiscent
 
 ## 招募队员项目
 
