@@ -14,7 +14,7 @@
 |10|[学记智能](#学记智能)|项目名：学记助理，智能知识管理 |[Nebula Hackathon RFC](https://github.com/aaron-zzh/xueji/blob/main/docs/Nebula_Hackathon_RFC.md)|https://github.com/aaron-zzh/xueji||
 |11|[星云之巅](#星云之巅)|项目名：UDF Enhanced Nebula |[RFC：UDF Enhanced Nebula](https://docs.google.com/document/d/1TFg-MuGlESnsz-cxWzwrHc4qqTzcKZrZX2b1VWxPaUw/edit?usp=sharing)|待输入||
 |12|[IT蜗壳](#IT蜗壳)|项目名：暂无 |待输入|待输入||
-|13|[Other Side](#Other-Side)|项目名：Open Telemetry |待输入|待输入||
+|13|[Other Side](#Other-Side)|项目名：Open Telemetry |[nebula graph observability](https://docs.google.com/document/d/1ePHsKE7m3OwQ_EXl0gGUt6QNO9B_HTGJFFR0f9iwybA/edit?usp=sharing)|待输入||
 |14|[node_module](#node_module)|项目名：nebula-node |[ Node 客户端项目说明](https://github.com/wujjpp/nebula-node/tree/dev-v0.1.0)|待输入||
 |15|[临江仙](#临江仙)|项目名：一首古诗带来的图数据库大冒险 |https://github.com/Jerrick/a-tour-of-poetry/blob/main/README.md|https://github.com/Jerrick/a-tour-of-poetry|🙋‍♂️ 找队友|
 |16|[rise](#rise)|项目名：数据库诊断工具 |[【RFC 文档】—— 基于终端的数据库信息收集与诊断工具](https://www.yuque.com/cairusigoudenanpeijiao/phtgpc/vn6ms9)|待输入||
@@ -23,7 +23,7 @@
 |19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |[https://github.com/jackhackson/hackathon-2021/blob/main/README.md](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|待输入||
 |21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |待输入|待输入||
-|22|[M42](#M42)|项目名： Fly to M78|待输入|待输入||
+|22|[M42](#M42)|项目名： Fly to M78|[Hackathon-RFC](https://docs.google.com/document/d/1jIluCZgMlbbafIrgYO_Rz6nTserHOf3ZXtOVChDatyM/edit?usp=sharing)|待输入||
 |23|[Marauders](#Marauders)|项目名： 元数据治理 |待输入|待输入||
 |24|[图学习兴趣小队](#图学习兴趣小队)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|待输入||
 |25|[咕咕咕](#咕咕咕)|项目名：Index Advisor|[RFC DOC](https://docs.google.com/document/d/1q7YxHjFIxvDitcqpKJ_wX4iy9XqV7TqHQjLSegnlloc/edit)|待输入||
