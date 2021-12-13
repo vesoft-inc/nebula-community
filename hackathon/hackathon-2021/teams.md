@@ -289,7 +289,7 @@ For testing we will examine vulnerabilities for https://github.com/vesoft-inc/ne
 
 * Details of the team
    * Team name
-        * Linjiangxian (a famous Chinese ancient poetry)
+        * Linjiangxian (a famous ancient poetry in China)
    * Team leader
        * Jiankui Wang, head of Baidu Big Data Team
    * Requirements for teammates
