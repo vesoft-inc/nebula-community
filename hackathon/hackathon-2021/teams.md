@@ -3,7 +3,7 @@
 |No.|Team|Project & Description|RFC| Project GitHub| Note |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |1| [Allumos](#Allumos)|OpenGalaxy|[RFC doc](https://github.com/X-lab2017/open-galaxy/blob/nebula-hackathon/RFC.md)|[Project repo](https://github.com/X-lab2017/open-galaxy/)|[Project demo](https://open-galaxy.x-lab.info/)|
-|2| [NullReferenceException](#NullReferenceException)|nebula-net & nebula-php |Pending Input|Pending Input||
+|2| [NullReferenceException](#NullReferenceException)|nebula-net & nebula-php |[nebula-net & nebula-php RFC](https://github.com/heyanlong/nebula-php/blob/main/rfc.md)|[nebula-net](https://github.com/shyboylpf/nebula-net) [nebula-php](https://github.com/heyanlong/nebula-php)||
 |3| [PengGraph](#PengGraph)|One graph to show relationships between power grid equipment |Pending Input|Pending Input||
 |4| [Gamora](#Gamora)|Gamora |Pending Input|Pending Input||
 |5| [Alice, Bob and Ciri](#AliceBobandCiri)|ppgi|Pending Input|Pending Input||
