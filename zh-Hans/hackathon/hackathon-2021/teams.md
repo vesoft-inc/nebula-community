@@ -24,7 +24,7 @@
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |[https://github.com/jackhackson/hackathon-2021/blob/main/README.md](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|待输入||
 |21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |待输入|待输入||
 |22|[M42](#M42)|项目名： Fly to M78|待输入|待输入||
-|23|[活点地图](#活点地图)|项目名： 元数据治理 |待输入|待输入||
+|23|[Marauders](#Marauders)|项目名： 元数据治理 |待输入|待输入||
 |24|[图学习兴趣小队](#图学习兴趣小队)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|待输入||
 |25|[咕咕咕](#咕咕咕)|项目名：Index Advisor|[RFC DOC](https://docs.google.com/document/d/1q7YxHjFIxvDitcqpKJ_wX4iy9XqV7TqHQjLSegnlloc/edit)|待输入||
 
@@ -107,6 +107,7 @@
 * 成员
    *  张宝利，企查查知识图谱研发
    *  巫建平，企查查高级后端开发
+   *  陈季辉，企查查研发工程师
 
 ### rise
 
@@ -198,7 +199,7 @@
     * Sun
     * 无上
 
-### 活点地图
+### Marauder's Map
 
 * 项目名：活点地图
 * 项目简介：Nebula Graph 的元数据治理、数据血缘 PoC
