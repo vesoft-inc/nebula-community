@@ -27,6 +27,7 @@
 |23| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
 |24| [Dinamo](#Dinamo)|GraphYourCodeVulnerability|Validation of GitHub projects exposure to CVE vulnerabilities|Pending Input||
 
+
 ## Details for the team
 
 ### Allumos
@@ -160,7 +161,7 @@
 ### AI-Com
 
 * Project name: Retail Behavior Discovery
-* Project Introduction: Use Nebula Graph to replace traditional databases for intelligent discovery of retail behavior
+* Project Introduction: Using Nebula instead of traditional database to discover retail business behavior intelligently
 * Team members
    *  Jack, database developer
    *  Meiyinglingluo, junior student major in computational mathematics
@@ -177,8 +178,8 @@
 
 ### M42
 
-* Project name: --
-* Project Introduction: The project mainly optimizes different layers of Nebula storage to improve Nebula Graph TP query performance, including Nebula Graph storage engine optimization, architecture optimization, caching, etc.
+* Project name: Fly to M78
+* Project Introduction: The Nebula performance is suffering in both OLTP and OLAP for a period of time. The reason is complicated and multi-factored. The underlying storage engine, overall architecture, different layers of Nebula all contribute to the performance issues. The goal of this project is to improve the OLTP and OLAT performance of Nebula by adjusting and optimizing the architecture and different layers. This may include RocksDB optimization, caching, etc. Hope we can achieve the effect of flying to M78 and obtaining help from Ultraman.
 * Team members
    *  Hao Wen
    *  Mingquan Ji
@@ -199,64 +200,6 @@
 * Project Introduction: Pending input
 * Team member
     * Ashwini kumar Pal, graph ML pracitioner
- 
-  
-## Team members recruiting
-
-### Pingan Technology
-
-* Details of the team
-   * Team name
-        * Pingan Technology
-   * Team leader
-       * Jiaxun Yang
-       * Student from Peking University
-   * Requirements for teammates
-       * College students in Beijing are preferred
-       * Proficient in programming, or have an understanding of market analysis and profit models
-   * Team members
-      * ModestYjx, GitHub link: [ModestYjx](https://github.com/ModestYjx)
-
-* Details for the project
-   * Project name
-       * One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence
-   * Project Introduction
-       * In recent years, strawberry picking tourism has been popular. This project aims to design an artificial intelligence-based software to realize strawberry maturity detection, crop knowledge popularization, and digital agricultural management. This software will ensure that tourists can pick the most mature strawberries as soon as possible and that rural experience programs can be popular among primary and secondary school students. In this way, tourist experience is improved and the labor cost is saved.
-   * The technology involved in the project
-       * Image classification
-       * Graph database
-
-### Winter is Coming
-
-* Details of the team
-   * Team name
-        * Winter is Coming
-   * Team leader
-       * Weiming Li
-       * School of Information Renmin University of China
-   * Requirements for teammates
-       * Have the knowledge of raft and C++
-
-* Deatails for the project
-   * Project name
-       * raft optimization
-       * Read the source code of nebula-storage to optimize the raft layer
-
-
-### Linjiangxian  
-
-* Details of the team
-   * Team name
-        * Linjiangxian (a famous ancient poetry in China)
-   * Team leader
-       * Jiankui Wang, head of Baidu Big Data Team
-   * Requirements for teammates
-       * Have the ability to develop mini apps and relevant development experience 
-       
-* Deatails for the project
-   * Project name
-       * The Great Adventure on Graph Database inspired by an ancient Poetry
-
 
 ### Dinamo
 
@@ -299,3 +242,85 @@ This project will enable user to validate exposure of the repository elements to
 Data set will have already populated graph objects for most popular GitHub repositories, for more than 32000 repositories.
 Users can select any of them and check vulnerability status of all components included in visually attractive graph representation supported with full-text search option.
 For testing we will examine vulnerabilities for https://github.com/vesoft-inc/nebula
+
+### Marauders
+
+* Project name: Marauders
+* Project Introduction: A source data management and data-blood PoC driven by Nebula Graph back end
+* Team members
+    * Wey Gu
+
+### Graph Enthusiast
+
+* Project name: Euler Based on Nebula Graph
+* Project Introduction: Nebula Graph replaces the native memory graph engine of Euler2, allowing graph database users to experience graph learning capabilities at low cost.
+* Team members
+    * Xin Yang
+    * Shuai Liang
+    * Chen Gao
+    * Yuan Zun
+
+### Cuckoo
+
+* Project name: Index Advisor
+* Project Introduction: Provide index recommendation function for graph database to better manage index and improve query performance.
+* Team members
+    * Reminiscent
+ 
+  
+## Team members recruiting
+
+### Ping‘an Technology
+
+* Details of the team
+   * Team name
+        * Pingan Technology
+   * Team leader
+       * Jiaxun Yang
+       * Student from Peking University
+   * Requirements for teammates
+       * College students in Beijing are preferred
+       * Proficient in programming, or have an understanding of market analysis and profit models
+   * Team members
+      * ModestYjx, GitHub link: [ModestYjx](https://github.com/ModestYjx)
+
+* Details for the project
+   * Project name
+       * "magriculture" -- agricultural tourism solution for computer-aided strawberry picking based on Nebula
+   * Project Introduction
+       * in recent years, strawberry picking tourism has entered people's vision. Through the design of a software based on artificial intelligence, strawberry maturity detection, crop knowledge popularization and digital agricultural management are realized to ensure that tourists pick the strawberries with the highest maturity as soon as possible, popularize rural experience education for primary and secondary school students, improve tourists' play experience and save the employment cost of farm owners.
+   * The technology involved in the project
+       * Image classification
+       * Graph database
+
+### Winter is Coming
+
+* Details of the team
+   * Team name
+        * Winter is Coming
+   * Team leader
+       * Weiming Li
+       * School of Information Renmin University of China
+   * Requirements for teammates
+       * Have the knowledge of raft and C++
+
+* Deatails for the project
+   * Project name
+       * raft optimization
+       * Read the source code of nebula-storage to optimize the raft layer
+
+
+### Linjiangxian  
+
+* Details of the team
+   * Team name
+        * Linjiangxian (a famous ancient poetry in China)
+   * Team leader
+       * Jiankui Wang, head of Baidu Big Data Team
+   * Requirements for teammates
+       * Have the ability to develop mini apps and relevant development experience 
+       
+* Deatails for the project
+   * Project name
+       * The Great Adventure on Graph Database inspired by an ancient Poetry
+
