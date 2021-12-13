@@ -11,7 +11,7 @@
 |7|[智联队](#智联队)|项目名：数控机床设计选型知识库构建 |[rfc：数控机床设计选型知识库构建](https://docs.qq.com/doc/DVmxRbWlXeW5DSEhC)|待输入||
 |8|[喵星人与汪星人](#喵星人与汪星人)|项目名：基于图数据技术和推荐算法融合的智能推荐引擎设计 |[https://github.com/baronbigghf/graph-based-cf/blob/main/README.md](https://github.com/baronbigghf/graph-based-cf/blob/main/README.md)|待输入||
 |9|[Winter is Coming](#winter-is-coming)|项目名：raft 优化 |[https://docs.google.com/document/d/1ENl2_c3-vXYf36AU6iJCTpjrUFVAtjoXc1aclU5xHyA/edit?usp=sharing](https://docs.google.com/document/d/1ENl2_c3-vXYf36AU6iJCTpjrUFVAtjoXc1aclU5xHyA/edit?usp=sharing)|待输入|🙋‍♂️ 找队友|
-|10|[学记智能](#学记智能)|项目名：学记助理，智能知识管理 |待输入|待输入||
+|10|[学记智能](#学记智能)|项目名：学记助理，智能知识管理 |[Nebula Hackathon RFC](https://github.com/aaron-zzh/xueji/blob/main/docs/Nebula_Hackathon_RFC.md)|https://github.com/aaron-zzh/xueji||
 |11|[星云之巅](#星云之巅)|项目名：UDF Enhanced Nebula |[RFC：​UDF Enhanced Nebula](https://docs.google.com/document/d/1TFg-MuGlESnsz-cxWzwrHc4qqTzcKZrZX2b1VWxPaUw/edit?usp=sharing)|待输入||
 |12|[IT蜗壳](#IT蜗壳)|项目名：暂无 |待输入|待输入||
 |13|[Other Side](#Other-Side)|项目名：Open Telemetry |待输入|待输入||
