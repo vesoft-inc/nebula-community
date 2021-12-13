@@ -26,7 +26,9 @@
 |22| [M42](#M42)|--|Pending Input|Pending Input||
 |23| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
 |24| [Dinamo](#Dinamo)|GraphYourCodeVulnerability|Validation of GitHub projects exposure to CVE vulnerabilities|Pending Input||
-
+|25| [Marauders](#Marauders)|Marauders|Pending Input|Pending Input||
+|26| [Graph Enthusiast](#GraphEnthusiast)|Euler Based on Nebula Graph|Pending Input|Pending Input||
+|27| [Cuckoo](#Cuckoo)|Index Advisor|Pending Input|Pending Input||
 
 ## Details for the team
 
