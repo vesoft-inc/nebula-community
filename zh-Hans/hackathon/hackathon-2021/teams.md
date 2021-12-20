@@ -22,7 +22,7 @@
 |18|[算算](#算算)|项目名：graphmatrix |[单机的图计算能力和可视化zoom in/out](https://github.com/vesoft-inc/nebula-community/issues/58)|待输入||
 |19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |[https://github.com/jackhackson/hackathon-2021/blob/main/README.md](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|待输入||
-|21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |待输入|待输入||
+|21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |[https://github.com/vesoft-inc/nebula-community/issues/73](https://github.com/vesoft-inc/nebula-community/issues/73)|待输入||
 |22|[M42](#M42)|项目名： Fly to M78|[Hackathon-RFC](https://docs.google.com/document/d/1jIluCZgMlbbafIrgYO_Rz6nTserHOf3ZXtOVChDatyM/edit?usp=sharing)|待输入||
 |23|[Marauders](#Marauders)|项目名： 元数据治理 |[活点地图 PoC RFC](https://docs.google.com/document/d/1HPLi2945rpwUpz3_jvKTpWRXtWPLP4IJm8a3GvqdQIM/edit?usp=sharing)|待输入||
 |24|[图学习兴趣小队](#图学习兴趣小队)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|待输入||
