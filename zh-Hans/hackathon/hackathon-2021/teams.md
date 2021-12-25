@@ -14,7 +14,7 @@
 |10|[学记智能](#学记智能)|项目名：学记助理，智能知识管理 |[Nebula Hackathon RFC](https://github.com/aaron-zzh/xueji/blob/main/docs/Nebula_Hackathon_RFC.md)|https://github.com/aaron-zzh/xueji||
 |11|[星云之巅](#星云之巅)|项目名：UDF Enhanced Nebula |[RFC：UDF Enhanced Nebula](https://docs.google.com/document/d/1TFg-MuGlESnsz-cxWzwrHc4qqTzcKZrZX2b1VWxPaUw/edit?usp=sharing)|[https://github.com/nebula-hackathon-2021](https://github.com/nebula-hackathon-2021)||
 |12|[IT蜗壳](#IT蜗壳)|项目名：暂无 |待输入|待输入||
-|13|[Other Side](#Other-Side)|项目名：Open Telemetry |[nebula graph observability](https://docs.google.com/document/d/1ePHsKE7m3OwQ_EXl0gGUt6QNO9B_HTGJFFR0f9iwybA/edit?usp=sharing)|待输入||
+|13|[Other Side](#Other-Side)|项目名：Open Telemetry |[nebula graph observability](https://docs.google.com/document/d/1ePHsKE7m3OwQ_EXl0gGUt6QNO9B_HTGJFFR0f9iwybA/edit?usp=sharing)|[https://github.com/Shihao-Zhong/nebula/tree/fix-build-issue](https://github.com/Shihao-Zhong/nebula/tree/fix-build-issue)||
 |14|[node_module](#node_module)|项目名：nebula-node |[ Node 客户端项目说明](https://github.com/wujjpp/nebula-node/tree/dev-v0.1.0)|[https://github.com/vesoft-inc/nebula-node](https://github.com/vesoft-inc/nebula-node)||
 |15|[临江仙](#临江仙)|项目名：一首古诗带来的图数据库大冒险 |https://github.com/Jerrick/a-tour-of-poetry/blob/main/README.md|https://github.com/Jerrick/a-tour-of-poetry|🙋‍♂️ 找队友|
 |16|[rise](#rise)|项目名：数据库诊断工具 |[【RFC 文档】—— 基于终端的数据库信息收集与诊断工具](https://www.yuque.com/cairusigoudenanpeijiao/phtgpc/vn6ms9)|待输入||
