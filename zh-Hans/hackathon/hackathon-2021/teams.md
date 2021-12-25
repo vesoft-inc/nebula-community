@@ -19,7 +19,7 @@
 |15|[临江仙](#临江仙)|项目名：一首古诗带来的图数据库大冒险 |https://github.com/Jerrick/a-tour-of-poetry/blob/main/README.md|https://github.com/Jerrick/a-tour-of-poetry|🙋‍♂️ 找队友|
 |16|[rise](#rise)|项目名：数据库诊断工具 |[【RFC 文档】—— 基于终端的数据库信息收集与诊断工具](https://www.yuque.com/cairusigoudenanpeijiao/phtgpc/vn6ms9)|待输入||
 |17|[非常完美队](#非常完美队)|项目名：nebula-terminal-dashboard |[Nebula Hackathon RFC](https://www.yuque.com/docs/share/84535437-5b11-4a89-91d1-1e5300b33488)|待输入||
-|18|[算算](#算算)|项目名：graphmatrix |[单机的图计算能力和可视化zoom in/out](https://github.com/vesoft-inc/nebula-community/issues/58)|待输入||
+|18|[算算](#算算)|项目名：graphmatrix |[单机的图计算能力和可视化zoom in/out](https://github.com/vesoft-inc/nebula-community/issues/58)|[https://github.com/NebulaGraphMatrix/nebula](https://github.com/NebulaGraphMatrix/nebula)||
 |19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |[https://github.com/jackhackson/hackathon-2021/blob/main/README.md](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|待输入||
 |21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |[https://github.com/vesoft-inc/nebula-community/issues/73](https://github.com/vesoft-inc/nebula-community/issues/73)|待输入||
