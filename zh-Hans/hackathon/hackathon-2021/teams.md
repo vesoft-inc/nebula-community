@@ -20,10 +20,10 @@
 |16|[rise](#rise)|项目名：数据库诊断工具 |[【RFC 文档】—— 基于终端的数据库信息收集与诊断工具](https://www.yuque.com/cairusigoudenanpeijiao/phtgpc/vn6ms9)|待输入||
 |17|[非常完美队](#非常完美队)|项目名：nebula-terminal-dashboard |[Nebula Hackathon RFC](https://www.yuque.com/docs/share/84535437-5b11-4a89-91d1-1e5300b33488)|待输入||
 |18|[算算](#算算)|项目名：graphmatrix |[单机的图计算能力和可视化zoom in/out](https://github.com/vesoft-inc/nebula-community/issues/58)|[https://github.com/NebulaGraphMatrix/nebula](https://github.com/NebulaGraphMatrix/nebula)||
-|19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|待输入||
+|19|[悬挂边队](#悬挂边队)|项目名：悬挂边和超级节点 |[悬挂边和超级节点 RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|[https://github.com/panda-sheep/nebula-hackathon/tree/ht](https://github.com/panda-sheep/nebula-hackathon/tree/ht)||
 |20|[AI-Com](#AI-Com)|项目名：零售行为发现 |[https://github.com/jackhackson/hackathon-2021/blob/main/README.md](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|[https://github.com/jackhackson/hackathon-2021](https://github.com/jackhackson/hackathon-2021)||
-|21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |[https://github.com/vesoft-inc/nebula-community/issues/73](https://github.com/vesoft-inc/nebula-community/issues/73)|待输入||
-|22|[M42](#M42)|项目名： Fly to M78|[Hackathon-RFC](https://docs.google.com/document/d/1jIluCZgMlbbafIrgYO_Rz6nTserHOf3ZXtOVChDatyM/edit?usp=sharing)|待输入||
+|21|[大油条东北虎](#大油条东北虎)|项目名：如何吊打 nebula 的深度查询 |[https://github.com/vesoft-inc/nebula-community/issues/73](https://github.com/vesoft-inc/nebula-community/issues/73)|[https://github.com/critical27/nebula/tree/hack](https://github.com/critical27/nebula/tree/hack)||
+|22|[M42](#M42)|项目名： Fly to M78|[Hackathon-RFC](https://docs.google.com/document/d/1jIluCZgMlbbafIrgYO_Rz6nTserHOf3ZXtOVChDatyM/edit?usp=sharing)|[https://github.com/nevermore3/nebula/tree/cachelib](https://github.com/nevermore3/nebula/tree/cachelib)||
 |23|[Marauders](#Marauders)|项目名： 元数据治理 |[活点地图 PoC RFC](https://docs.google.com/document/d/1HPLi2945rpwUpz3_jvKTpWRXtWPLP4IJm8a3GvqdQIM/edit?usp=sharing)|[https://github.com/wey-gu/amundsen](https://github.com/wey-gu/amundsen)||
 |24|[图学习兴趣小队](#图学习兴趣小队)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|[https://github.com/MMyheart/euler-base-nebula](https://github.com/MMyheart/euler-base-nebula)||
 |25|[咕咕咕](#咕咕咕)|项目名：Index Advisor|[RFC DOC](https://docs.google.com/document/d/1q7YxHjFIxvDitcqpKJ_wX4iy9XqV7TqHQjLSegnlloc/edit)|待输入||
