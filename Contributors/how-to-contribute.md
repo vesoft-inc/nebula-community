@@ -108,9 +108,9 @@ We adopt `cpplint` to make sure that the project conforms to Google's coding sty
 
 Please add unit tests for your new features or bugfixes.
 
-#### Build Your Code with Unit Tests Enable
+#### Build Your Code with Unit Tests Enabled
 
-Please refer to the [build source code](../3.build-develop-and-administration/1.build/1.build-source-code.md) documentation to compile.
+Please refer to the [build source code](https://docs.nebula-graph.io/master/4.deployment-and-installation/1.resource-preparations/) documentation to compile.
 
 > Make sure you have enabled the build of unit tests by setting `-DENABLE_TESTING=ON`.
 #### Run Tests
