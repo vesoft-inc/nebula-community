@@ -26,7 +26,7 @@
 |22| [M42](#M42)|Fly to M78|https://docs.google.com/document/d/1jIluCZgMlbbafIrgYO_Rz6nTserHOf3ZXtOVChDatyM/edit?usp=sharing|https://github.com/nevermore3/nebula/tree/cachelib||
 |23|[Marauders](#Marauders)|Marauder’s Map | https://docs.google.com/document/d/1HPLi2945rpwUpz3_jvKTpWRXtWPLP4IJm8a3GvqdQIM/edit?usp=sharing|[https://github.com/wey-gu/amundsen](https://github.com/wey-gu/amundsen)||
 |24|[GNN Enthusiast](#GNN-enthusiast)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|[https://github.com/MMyheart/euler-base-nebula](https://github.com/MMyheart/euler-base-nebula)||
-|25|[Gugugu](#gugugu)|项目名：Index Advisor|[RFC DOC](https://docs.google.com/document/d/1q7YxHjFIxvDitcqpKJ_wX4iy9XqV7TqHQjLSegnlloc/edit)|待输入||
+|25|[Gugugu](#gugugu)|Index Advisor|[RFC DOC](https://docs.google.com/document/d/1q7YxHjFIxvDitcqpKJ_wX4iy9XqV7TqHQjLSegnlloc/edit)|Pending Input||
 |26| [Dinamo](#Dinamo)|GraphYourCodeVulnerability|[Validation of GitHub projects exposure to CVE vulnerabilities](https://github.com/vesoft-inc/nebula-community/blob/master/hackathon/hackathon-2021/teams.md#Dinamo)|[https://github.com/mirac7/GraphYourCodeVulnerability](https://github.com/mirac7/GraphYourCodeVulnerability)|Demo [https://secure.codegraph.space](https://secure.codegraph.space)|
 |27| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
 
