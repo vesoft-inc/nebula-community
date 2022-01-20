@@ -6,26 +6,29 @@
 |2| [NullReferenceException](#NullReferenceException)|nebula-net & nebula-php |[nebula-net & nebula-php RFC](https://github.com/heyanlong/nebula-php/blob/main/rfc.md)|[nebula-net](https://github.com/shyboylpf/nebula-net) [nebula-php](https://github.com/heyanlong/nebula-php)||
 |3| [PengGraph](#PengGraph)|One graph to show relationships between power grid equipment |Pending Input|Pending Input||
 |4| [Gamora](#Gamora)|Gamora |Pending Input|Pending Input||
-|5| [Alice, Bob and Ciri](#AliceBobandCiri)|ppgi|Pending Input|Pending Input||
-|6| [WisdomTogether](#WisdomTogether)|Research and development of knowledge base system in design of CNC machine tools |Pending Input|Pending Input|Recruiting|
-|7| [Pingan Technology](#PinganTechnology)|One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence|Pending Input|Pending Input||
-|8| [GraphbasedCF](#GraphbasedCF)|Intelligent recommendation engine based on graph data technology and recommendation algorithm |Pending Input|Pending Input||
-|9| [Winter is Coming](#WinterisComing)|raft optimization|Pending Input|Pending Input|Recruiting|
-|10| [Intelligent Learning](#IntelligentLearning)|Learning assistant|Pending Input|Pending Input||
-|11| [Nebula No.1](#NebulaNo.1)|UDF Enhanced Nebula|Pending Input|Pending Input||
+|5| [Alice, Bob and Ciri](#AliceBobandCiri)|ppgi|https://docs.google.com/document/d/1AWWKMocy6VV27nzAYF5opfXE1TdYDmN9lEcmt1uE3Cg/edit?usp=sharing|https://github.com/knwng/ppgi||
+|6| [WisdomTogether](#WisdomTogether)|Research and development of knowledge base system in design of CNC machine tools |https://github.com/ModestYjx/StrawberryPickingSolution/blob/main/README.md|https://github.com/ModestYjx/StrawberryPickingSolution||
+|7| [Pingan Technology](#PinganTechnology)|One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence|https://docs.qq.com/doc/DVmxRbWlXeW5DSEhC|Pending Input||
+|8| [GraphbasedCF](#GraphbasedCF)|Intelligent recommendation engine based on graph data technology and recommendation algorithm |https://github.com/baronbigghf/graph-based-cf/blob/main/README.md|https://github.com/baronbigghf/graph-based-cf||
+|9| [Winter is Coming](#WinterisComing)|raft optimization|https://docs.google.com/document/d/1ENl2_c3-vXYf36AU6iJCTpjrUFVAtjoXc1aclU5xHyA/edit?usp=sharing|Pending Input||
+|10| [Intelligent Learning](#IntelligentLearning)|Learning assistant|https://github.com/aaron-zzh/xueji/blob/main/docs/Nebula_Hackathon_RFC.md|https://github.com/aaron-zzh/xueji||
+|11| [Nebula No.1](#NebulaNo.1)|UDF Enhanced Nebula|https://docs.google.com/document/d/1TFg-MuGlESnsz-cxWzwrHc4qqTzcKZrZX2b1VWxPaUw/edit?usp=sharing|https://github.com/nebula-hackathon-2021||
 |12| [IT Worker](#ITWorker)|Pending Input|Pending Input|Pending Input||
-|13| [Other Side](#OtherSide)|Open Telemetry|Pending Input|Pending Input||
-|14| [node_module](#node_module)|nebula-node|Pending Input|Pending Input||
-|15| [Linjiangxian](#Linjiangxian)|The Great Adventure on Graph Database inspired by an ancient Poetry|Pending Input|Pending Input|Recruiting|
-|16| [rise](#rise)|Database Diagnostic Tool|Pending Input|Pending Input||
-|17| [Perfect One](#PerfectOne)|nebula-terminal-dashboard|Pending Input|Pending Input||
-|18| [Computing Geeks](#ComputingGeeks)|graphmatrix|Standalone graph computing capability and visualization|Pending Input||
-|19| [Dangling Edges](#DanglingEdges)|graphmatrix|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)||
-|20| [AI-Com](#AI-Com)|Retail Behavior Discovery|[Retail Behavior Discovery](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)||
-|21| [Attractive Restaurant](#AttractiveRestaurant)|Feel relaxed with Nebula Graph in-depth query|Pending Input|Pending Input||
-|22| [M42](#M42)|--|Pending Input|Pending Input||
-|23| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
-|24| [Dinamo](#Dinamo)|GraphYourCodeVulnerability|Validation of GitHub projects exposure to CVE vulnerabilities|Pending Input||
+|13| [Other Side](#OtherSide)|Open Telemetry|https://docs.google.com/document/d/1ePHsKE7m3OwQ_EXl0gGUt6QNO9B_HTGJFFR0f9iwybA/edit?usp=sharing|https://github.com/Shihao-Zhong/nebula/tree/fix-build-issue||
+|14| [node_module](#node_module)|nebula-node|https://github.com/wujjpp/nebula-node/tree/dev-v0.1.0|https://github.com/vesoft-inc/nebula-node||
+|15| [Linjiangxian](#Linjiangxian)|The Great Adventure on Graph Database inspired by an ancient Poetry|https://github.com/Jerrick/a-tour-of-poetry/blob/main/README.md|https://github.com/Jerrick/a-tour-of-poetry||
+|16| [rise](#rise)|Database Diagnostic Tool|https://www.yuque.com/cairusigoudenanpeijiao/phtgpc/vn6ms9|https://github.com/xjlgod/nebula-database-diagnostic||
+|17| [Perfect One](#PerfectOne)|nebula-terminal-dashboard|https://www.yuque.com/docs/share/84535437-5b11-4a89-91d1-1e5300b33488|Pending Input||
+|18| [Computing Geeks](#ComputingGeeks)|graphmatrix|https://github.com/vesoft-inc/nebula-community/issues/58|https://github.com/NebulaGraphMatrix/nebula||
+|19| [Dangling Edges](#DanglingEdges)|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|https://github.com/panda-sheep/nebula-hackathon/tree/ht||
+|20| [AI-Com](#AI-Com)|Retail Behavior Discovery|[Retail Behavior Discovery RFC](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|https://github.com/jackhackson/hackathon-2021||
+|21| [Attractive Restaurant](#AttractiveRestaurant)|Feel relaxed with Nebula Graph in-depth query|https://github.com/vesoft-inc/nebula-community/issues/73|https://github.com/critical27/nebula/tree/hack||
+|22| [M42](#M42)|Fly to M78|https://docs.google.com/document/d/1jIluCZgMlbbafIrgYO_Rz6nTserHOf3ZXtOVChDatyM/edit?usp=sharing|https://github.com/nevermore3/nebula/tree/cachelib||
+|23|[Marauders](#Marauders)|Marauder’s Map | https://docs.google.com/document/d/1HPLi2945rpwUpz3_jvKTpWRXtWPLP4IJm8a3GvqdQIM/edit?usp=sharing|[https://github.com/wey-gu/amundsen](https://github.com/wey-gu/amundsen)||
+|24|[GNN Enthusiast](#GNN-enthusiast)|项目名： Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|[https://github.com/MMyheart/euler-base-nebula](https://github.com/MMyheart/euler-base-nebula)||
+|25|[Gugugu](#gugugu)|项目名：Index Advisor|[RFC DOC](https://docs.google.com/document/d/1q7YxHjFIxvDitcqpKJ_wX4iy9XqV7TqHQjLSegnlloc/edit)|待输入||
+|26| [Dinamo](#Dinamo)|GraphYourCodeVulnerability|[Validation of GitHub projects exposure to CVE vulnerabilities](https://github.com/vesoft-inc/nebula-community/blob/master/hackathon/hackathon-2021/teams.md#Dinamo)|[https://github.com/mirac7/GraphYourCodeVulnerability](https://github.com/mirac7/GraphYourCodeVulnerability)|Demo [https://secure.codegraph.space](https://secure.codegraph.space)|
+|27| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
 
 ## Details for the team
 
@@ -192,6 +195,30 @@
     * Youshuai Wang
     * Sun
     * Wushang
+
+### Marauder
+
+* Project name: Marauder’s Map
+* Project Introduction: data governance
+* Team members
+    * wey
+
+### GNN enthusiast
+
+* Project name: Euler Based on Nebula Graph
+* Project Introduction: NebulaGraph替换Euler2原生的内存图引擎，让图数据库的用户可以低成本的尝试图学习能力。
+* Team members
+    * Xin Yang
+    * Shuai Liang
+    * Chen Gao
+    * Zunyuan Yang
+
+### Gugugu
+
+* Project name: Index Advisor
+* Project Introduction: recommend proper indexes
+* 成员
+    * Reminiscent
 
 ### Ashwini kumar Pal
 
