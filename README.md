@@ -3,7 +3,7 @@
 # Nebula Graph Community
 
 - [Slack Channel](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g)
-- [Forum](https://discuss.nebula-graph.io/)
+- [Discussion Board](https://github.com/vesoft-inc/nebula/discussions)
 
 Welcome to the Nebula Graph Community!
 
@@ -13,7 +13,9 @@ See Nebula Graph Community Architecture: [Here](https://github.com/vesoft-inc/ne
 
 ## Community Activities
 
-- [Nebula Content Program](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)
+- [Community Meeting](https://github.com/vesoft-inc/nebula-community/wiki)
+
+Find more community events [here](https://nebula-graph.io/activity/)
 
 ## Contributing
 
@@ -22,16 +24,16 @@ Contributions are warmly welcomed and greatly appreciated. Here are a few ways y
 - Start by some [good first issues](https://github.com/vesoft-inc/nebula/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Submit Pull Requests. See [how to contribute](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/how-to-contribute.md)
 
-If you need any help or mentoring getting started, understanding the codebase, or making a PR (or anything else), please ask on Slack or WeChat.
+If you need any help or mentoring getting started, understanding the codebase, or making a PR (or anything else), please ask on [Slack](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g) or start a thread on the [discussion board](https://github.com/vesoft-inc/nebula/discussions).
 
 ## Resources
 
 ### [Nebula Blog](https://nebula-graph.io/posts)
 The Nebula Blog is a go-to place for Nebula Graph users to learn more about the architecture and design of Nebula Graph modules, best practices from Nebula users, 
 
-### [Nebula Graph Forum](https://discuss.nebula-graph.io/)
+### [Nebula Graph Discussions](https://github.com/vesoft-inc/nebula/discussions)
 
-This is a public discussion board where users can ask questions and best practices about Nebula Graph and related tools in the Nebula Graph Ecosystem. You can log in to the forum directly with your GitHub account.
+This is a public discussion board where users can ask questions and best practices about Nebula Graph and related tools.
 
 ### [Nebula Graph Docs](https://docs.nebula-graph.io/)
 
