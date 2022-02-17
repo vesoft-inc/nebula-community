@@ -4,6 +4,8 @@ Nebula Graph is applying for the Google Summer of Code 2022 project for the firs
 
 If you have any questions getting started, please join the [GSoC Slack channel](https://nebulagraph.slack.com/archives/C032VPK1PJB) (preferred) or send an email via devrel[at]vesoft.com
 
+All the potential mentors of the project ideas below can be found in the Slack channel mentioned above. Feel free to DM them if you have any questions to get started.
+
 ---
 
 ## Idea: Graph workload analysis and replay
@@ -89,4 +91,8 @@ Skills required:
 
 **Difficulty:** Hard
 
-
+**References:**
+1. Efficient aggregation for graph summarization: https://pages.cs.wisc.edu/~jignesh/publ/summarization.pdfhttps://pages.cs.wisc.edu/~jignesh/publ/summarization.pdf
+2. ForceAtlas2 layout: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679
+3. OpenOrd layout:https://www.researchgate.net/publication/253087985_OpenOrd_An_Open-Source_Toolbox_for_Large_Graph_Layout
+4. d3-force-3d: https://github.com/vasturiano/d3-force-3d/blob/master/src/manyBody.js#L85
