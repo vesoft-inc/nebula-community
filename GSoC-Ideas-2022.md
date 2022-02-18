@@ -82,7 +82,6 @@ Skills required:
 - WebGL
 - Golang
 - Typescript
-- Math
 - Database
 
 **Possible mentor:** Zhuang Miao
