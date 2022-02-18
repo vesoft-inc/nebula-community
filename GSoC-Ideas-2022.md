@@ -92,7 +92,7 @@ Skills required:
 **Difficulty:** Hard
 
 **References:**
-1. Efficient aggregation for graph summarization: https://pages.cs.wisc.edu/~jignesh/publ/summarization.pdfhttps://pages.cs.wisc.edu/~jignesh/publ/summarization.pdf
+1. Efficient aggregation for graph summarization: https://pages.cs.wisc.edu/~jignesh/publ/summarization.pdf
 2. ForceAtlas2 layout: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679
 3. OpenOrd layout:https://www.researchgate.net/publication/253087985_OpenOrd_An_Open-Source_Toolbox_for_Large_Graph_Layout
 4. d3-force-3d: https://github.com/vasturiano/d3-force-3d/blob/master/src/manyBody.js#L85
