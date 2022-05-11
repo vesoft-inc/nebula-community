@@ -9,15 +9,15 @@ Nebula 个人认证设有 2 个不同难度等级的认证考试：
 * Nebula Graph Certified Insider（简称：NGCI），证明用户对图数据库及 Nebula Graph 有基本了解，是合格的 Nebula Graph 使用者。
     * NGCI 考试共 100 题，总分 100 分。其中，单项选择题 40 题，每题 1 分；判断题 60 题，每题 1 分。
 * Nebula Graph Certified Professional（简称：NGCP），证明用户对图数据库及 Nebula Graph 有深入的了解，是 Nebula Graph 专业人士。
-    * NGCP 考试共 100 题，总分 100 分。其中单项选择题 30 题，不定项选择题 30 题，判断题 40 题，各题型均为每题 1 分。
+    * NGCP 考试共 100 题，总分 100 分。其中单项选择题 40 题，不定项选择题 30 题，判断题 30 题，各题型均为每题 1 分。
 
 在 NGCI / NGCP 认证考试中，获得 60 分，即视为认证通过，可获得对应的认证证书。
 
 ### 认证考核方式
 
-参加 NGCI / NGCP 的用户，先登录 Nebula Graph Academy 官方认证考试平台，点击【开始考试】填写信息之后，即可开启该次考核认证。
+参加 NGCI / NGCP 的用户，先访问 Nebula Graph Academy 官方认证考试平台：[https://academic.nebula-graph.io/](https://academic.nebula-graph.io/?lang=ZH_CN)，点击【开始考试】填写信息之后，即可开启该次考核认证。
 
-每位用户拥有 3 次考核机会，每次限时 60 分钟（一小时），考试采用开卷形式，考生可参考 ![](#考试参考资料)。
+每次限时 60 分钟（一小时），考试采用开卷形式，考生可参考 ![](#考试参考资料)。
 
 ### NGCI 和 NGCP 认证证书
 
