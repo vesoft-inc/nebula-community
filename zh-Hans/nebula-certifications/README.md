@@ -17,7 +17,7 @@ Nebula 个人认证设有 2 个不同难度等级的认证考试：
 
 参加 NGCI / NGCP 的用户，先访问 Nebula Graph Academy 官方认证考试平台：[https://academic.nebula-graph.io/](https://academic.nebula-graph.io/?lang=ZH_CN)，点击【开始考试】填写信息之后，即可开启该次考核认证。
 
-每次限时 60 分钟（一小时），考试采用开卷形式，考生可参考 [](#参考资料)。
+每次限时 60 分钟（一小时），考试采用开卷形式，考生可参考 [参考资料](#参考资料)。
 
 ### NGCI 和 NGCP 认证证书
 
