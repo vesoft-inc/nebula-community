@@ -25,13 +25,13 @@ NGCI 电子证书样品：
 
 每位 NGCI 认证考试通过者，考试所用邮箱将收到以下电子证书。
 
-![NGCI](https://www-cdn.nebula-graph.com.cn/nebula-blog/ngci-certification-1.jpeg)
+![NGCI](https://www-cdn.nebula-graph.com.cn/nebula-blog/ngci-certification-1.png)
 
 NGCP 电子证书样品：
 
 每位 NGCP 认证考试通过者，考试所用邮箱将收到以下电子证书。
 
-![NGCI](https://www-cdn.nebula-graph.com.cn/nebula-blog/ngcp-certification-0.jpeg)
+![NGCP](https://www-cdn.nebula-graph.com.cn/nebula-blog/ngcp-certification-0.png)
 
 此外，NGCP 通过者请联系 Nebula 官方客服（微信号：nebulagraphbot）领取对应的实体证书。
 
@@ -47,7 +47,7 @@ NGCP 电子证书样品：
 
 ## 企业认证
 
-Nebula Graph Certified Enterprise（简称 NGCE）是 Nebula Graph 面向企业用户授予的认证。通过认证的企业可以获得更好的技术支持和使用引导。同时，通过该项认证你将同其他认证企业共同交流你的生产实践经验，更好地优化现有系统。
+Nebula Graph Certified Enterprise（简称 NGCE）是 Nebula Graph 面向企业用户授予的认证。通过认证的企业可以获得更好的技术支持和使用引导。同时，通过该项认证的企业将同其他认证企业共同交流生产实践经验，更好地优化现有系统。
 
 ### 企业认证和权益
 
