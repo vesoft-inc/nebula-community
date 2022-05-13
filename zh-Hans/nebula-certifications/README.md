@@ -51,4 +51,4 @@ Nebula Graph Certified Enterprise（简称 NGCE）是 Nebula Graph 面向企业�
 
 ### 企业认证和权益
 
-参考企业认证官方页面：![https://nebula-graph.com.cn/ngce/](https://nebula-graph.com.cn/ngce/)
+参考企业认证官方页面：[https://nebula-graph.com.cn/ngce/](https://nebula-graph.com.cn/ngce/)
