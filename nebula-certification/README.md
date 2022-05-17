@@ -37,7 +37,7 @@ In addition, NGCP e-certificate holders can contact Lisa/Wey/Hera on the [Nebula
 
 [Nebula Graph documentations](https://docs.nebula-graph.io)
 
-## Note
+## Notes
 
 * NGCI and NGCP certificates are valid for one year. If you want to keep being certified, you can re-take the certification test within the validity period.
 * You can have both the NGCI and NGCP certificates, or either one of them.
