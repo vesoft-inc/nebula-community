@@ -15,7 +15,7 @@ See Nebula Graph Community Architecture: [Here](https://github.com/vesoft-inc/ne
 
 - [Community Meeting](https://github.com/vesoft-inc/nebula-community/wiki)
 
-Find more community events [here](https://nebula-graph.io/activity/)
+Find more community events [here](https://nebula-graph.io/activity/), or [here](https://nebula-graph.com.cn/activity/) for Chinese activities.
 
 ## Contributing
 
