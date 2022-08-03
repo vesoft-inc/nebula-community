@@ -1,5 +1,7 @@
 [#English#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans) 
 
+[![Slack](https://img.shields.io/badge/Meetup-9F2B68?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/meeting/register/tZ0rcuypqDMvGdLuIm4VprTlx96wrEf062SH) [![Google Calendar](https://img.shields.io/badge/Calander-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://calendar.google.com/calendar/u/0?cid=Z29mbGttamM3ZTVlZ2hpazI2cmNlNXVnZThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [![Meetup](https://img.shields.io/badge/Meetup-FF0000?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/nebulagraph/events/287180186?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+
 # Nebula Graph Community
 
 - [Slack Channel](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g)
