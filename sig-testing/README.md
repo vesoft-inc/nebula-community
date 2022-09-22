@@ -37,11 +37,11 @@ Interested in how we can most effectively test NebulaGraph.
 
 The Chairs of the SIG run operations and processes governing the SIG.
 
-* 
+* [@HarrisChu](https://github.com/HarrisChu), vesoft
 
 ### Secretary
 
-* 
+* [@xigongdaEricyang](https://github.com/xigongdaEricyang), vesoft
 
 ### Technical Leads
 
