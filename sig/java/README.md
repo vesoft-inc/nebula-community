@@ -50,7 +50,7 @@ NebulaGraph Java ORM
   - [@Anyzm](https://github.com/Anyzm)
 
 - **Repo:**
-	- https://github.com/nebula-contrib/graph-ocean
+  - https://github.com/nebula-contrib/graph-ocean
 
 ### Nebula-JDBC
 
@@ -70,7 +70,12 @@ Ngbatis is a database ORM framework for Nebula graph + spring-boot. Take advanta
 - **Repo**:
   - https://github.com/nebula-contrib/ngbatis
 
+### Nebula-Java
 
+- **Owners**:
+  - [@Nicole00](https://github.com/Nicole00)
+- **Repo**:
+  - https://github.com/vesoft-inc/nebula-java
 
 ## Presentations && Live Streaming
 
