@@ -1,14 +1,14 @@
-![美丽的 banne](https://www-cdn.nebula-graph.io/pic-upload/Banner-Thanksgiving05.jpg)
+![美丽的 banne]()
 Happy Thanksgiving! We know it's a bit early to kick off the festivities, but we can't wait to share our heartful gratitude and blessings with you! 
 This year marks 5th anniversary of NebulaGraph. With your support and contribution, NebulaGraph has made fantastic growth on its maturity and performance. More than ever, we've seen our community flourish with new members exploring the capabilities of NebulaGraph, sharing their unique use cases and best practices. And even better, many have even contributed codes to NebulaGraph, driven by passion and dedication. We can't be more grateful to all your support, contribution and commitment. As a token of gratitude, we're excited to launch the program "Celebrating Thanksgiving with NebulaGraph", inviting all community members to celebrate our collective achievements and blessings from our journey so far.
 
-![GitHub 贡献图](https://www-cdn.nebula-graph.io/pic-upload/github_contributor.png)
+![GitHub 贡献图]()
 
-The program will last until Nov 30 and below are the instructions of the program. Remember, what we are thankful the most is always YOU!
+Below are the instructions of the program. Remember, what we are thankful the most is always YOU!
 - **Claim Your NebulaGraph Graph Pioneer Badge**
 Complete the [NebulaGraph Thanksgiving Quiz](https://forms.gle/L9Ud7CzHDXvhyXVp6) (10 questions). Anyone who answers X questions correctly will receive the NebulaGraph Graph Pionneer Badge.
 
-![Badge 示意图](https://www-cdn.nebula-graph.io/pic-upload/Badge-NebulaGraph-pioneer.png)
+![Badge 示意图]()
 
 A tip: Adding NebulaGraph to your LinkedIn skills, or sharing the badge on social media, will earn you an additional set of Digital Stickers! **Don't forget to @NebulaGraph when you're posting.**
 
@@ -16,7 +16,7 @@ A tip: Adding NebulaGraph to your LinkedIn skills, or sharing the badge on socia
 Fill out the [survey](https://forms.gle/L9Ud7CzHDXvhyXVp6) and rate NebulaGraph features and performance to shout out where NebulaGraph can improve! A NebulaGraph Product Champion Badge will be awarded to you!
 A tip: Sharing your unique experience with NebulaGraph will stand you a chance to win a $50 Amazon gift card!
 
-![Badge 示意图](https://www-cdn.nebula-graph.io/pic-upload/Badge-NebulaGraph-champion.png )
+![Badge 示意图]()
 
 The Story Acceptance Criteria
 - Theme: The article must be factual and related to the NebulaGraph database, and contains no unrelated content.
