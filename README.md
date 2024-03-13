@@ -47,7 +47,7 @@ There are video tutorials and recorded talks from meetups on our YouTube page.
 
 ### Social Media
 
-We have official social media channels on [Twitter](https://twitter.com/NebulaGraph), [Facebook](https://www.facebook.com/NebulaGraph/) and [LinkedIn](https://www.linkedin.com/company/30897126). Follow us on whichever channel you prefer.
+We have official social media channels on [Twitter](https://twitter.com/NebulaGraph), [Facebook](https://www.facebook.com/NebulaGraph/), and [LinkedIn](https://www.linkedin.com/company/30897126). Follow us on whichever channel you prefer.
 
 ## License
 
