@@ -11,7 +11,7 @@ Welcome to the NebulaGraph Community!
 
 This repo is to provide a place for members of the NebulaGraph community to learn from and collaborate with each other. In this repo, you can find learning resources, communication channels, meetup and events info. We encourage you to become a contributor and committer by improving docs, contributing code, sharing knowledge via talks and presentations, organizing user groups, etc.
 
-See Nebula Graph Community Architecture: [Here](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-community-architecture) a
+See NebulaGraph Community Architecture: [Here](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-community-architecture)
 
 ## Community Activities
 
@@ -40,7 +40,7 @@ This is a public discussion board where users can ask questions and best practic
 
 ### [NebulaGraph Docs](https://docs.nebula-graph.io/)
 
-You can find all the information on the different Nebula Graph projects with our docs.
+You can find all the information on the different NebulaGraph projects with our docs.
 
 ### [YouTube Channel](https://www.youtube.com/channel/UC73V8q795eSEMxDX4Pvdwmw)
 
@@ -52,4 +52,4 @@ We have official social media channels on [Twitter](https://twitter.com/NebulaGr
 
 ## License
 
-The Nebula Graph Community is under the Apache 3.0 license.
+The NebulaGraph Community is under the Apache 3.0 license.
