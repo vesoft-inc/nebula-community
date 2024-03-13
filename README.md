@@ -2,7 +2,7 @@
 //TR
 [![Discussions](https://img.shields.io/badge/GitHub_Discussion-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vesoft-inc/nebula/discussions) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/meeting/register/tZ0rcuypqDMvGdLuIm4VprTlx96wrEf062SH) [![Discourse](https://img.shields.io/badge/中文论坛-4285F4?style=for-the-badge&logo=discourse&logoColor=white)](https://discuss.nebula-graph.com.cn/) [![Slack](https://img.shields.io/badge/Slack-9F2B68?style=for-the-badge&logo=slack&logoColor=white)](https://nebula-graph.io/join-slack) [![Tecent_Meeting](https://img.shields.io/badge/腾讯会议-2D8CFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meeting.tencent.com/dm/F8NX1aRZ8PQv) [![Google Calendar](https://img.shields.io/badge/Calander-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://calendar.google.com/calendar/u/0?cid=Z29mbGttamM3ZTVlZ2hpazI2cmNlNXVnZThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [![Meetup](https://img.shields.io/badge/Meetup-FF0000?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/nebulagraph/events/287180186?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) [![Meeting Archive](https://img.shields.io/badge/Community_wiki-808080?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/vesoft-inc/nebula-community/wiki)
 
-# Nebula Graph Community
+# NebulaGraph Community
 
 - [Slack Channel](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g)
 - [Discussion Board](https://github.com/vesoft-inc/nebula/discussions)
@@ -34,11 +34,11 @@ If you need any help or mentoring getting started, understanding the codebase, o
 
 The Nebula Blog is a go-to place for Nebula Graph users to learn more about the architecture and design of Nebula Graph modules, best practices from Nebula users,
 
-### [Nebula Graph Discussions](https://github.com/vesoft-inc/nebula/discussions)
+### [NebulaGraph Discussions](https://github.com/vesoft-inc/nebula/discussions)
 
 This is a public discussion board where users can ask questions and best practices about Nebula Graph and related tools.
 
-### [Nebula Graph Docs](https://docs.nebula-graph.io/)
+### [NebulaGraph Docs](https://docs.nebula-graph.io/)
 
 You can find all the information on the different Nebula Graph projects with our docs.
 
