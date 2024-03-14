@@ -7,7 +7,7 @@
 - [Slack Channel](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g)
 - [Discussion Board](https://github.com/vesoft-inc/nebula/discussions)
 
-Welcome to the NebulaGraph Community!
+Welcome to the NebulaGraph Community！
 
 This repo is to provide a place for members of the NebulaGraph community to learn from and collaborate with each other. In this repo, you can find learning resources, communication channels, meetup and events info. We encourage you to become a contributor and committer by improving docs, contributing code, sharing knowledge via talks and presentations, organizing user groups, etc.
 
