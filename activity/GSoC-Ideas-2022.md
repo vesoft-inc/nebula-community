@@ -1,6 +1,6 @@
 # Project Ideas for Google Summer of Code 2022
 
-Nebula Graph is applying for the Google Summer of Code 2022 project for the first time. If you are interested in working with Nebula Graph, below are some project ideas.
+NebulaGraph is applying for the Google Summer of Code 2022 project for the first time. If you are interested in working with NebulaGraph, below are some project ideas.
 
 If you have any questions getting started, please join the [GSoC Slack channel](https://nebulagraph.slack.com/archives/C032VPK1PJB) (preferred) or send an email via devrel[at]vesoft.com
 
@@ -50,10 +50,10 @@ Skills required:
 
 ## Idea: Optimization of multi-hop query in NebulaGraph
 
-Nebula Graph persists an edge as key-value pair in RocksDB. If we need to make a multi-hop query, i.e. get all the followers of my followers, the query layer need to collect all result from storage layer to retrieve all my followers first, and then set them as source and call RPC of storage layer again to retrieve the followers of followers. This is a typical graph breadth-first search (BFS) algorithm, which brings huge network and serialization costs. What we need to do is save the graph topology into the same node by adding an extra node as raft learner, so the traversal of graph could be queried in that node without extra costs.
+NebulaGraph persists an edge as key-value pair in RocksDB. If we need to make a multi-hop query, i.e. get all the followers of my followers, the query layer need to collect all result from storage layer to retrieve all my followers first, and then set them as source and call RPC of storage layer again to retrieve the followers of followers. This is a typical graph breadth-first search (BFS) algorithm, which brings huge network and serialization costs. What we need to do is save the graph topology into the same node by adding an extra node as raft learner, so the traversal of graph could be queried in that node without extra costs.
 
 Expected outcomes of the project:
-- Support the common queries (openCypher and nGQL) in Nebula Graph by traversing the graph in the topology node
+- Support the common queries (openCypher and nGQL) in NebulaGraph by traversing the graph in the topology node
 
 This project has been initially verified and there will be a great performance improvement.
 

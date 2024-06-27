@@ -29,7 +29,7 @@ Nebula 社区有一群用户活跃在社群、论坛，积极解答他人的问�
 - **身份象征·烤漆徽章**
     1. [论坛](https://discuss.nebula-graph.com.cn/)回复他人问题且有 1 个回复采纳为【解决方法】
     2. 参加社区活动有机会获得，[Contributor](https://github.com/vesoft-inc/nebula-community/blob/master/Contributors/contributor-list.md)、[创作者](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-content-program/nebula-content-program.md)自动获得该礼品
-    3. 按照特定格式评论 nebula-community repo 的 「Wanted: Who is using Nebula Graph?」[issue](https://github.com/vesoft-inc/nebula-community/issues/2) 
+    3. 按照特定格式评论 nebula-community repo 的 「Wanted: Who is using NebulaGraph?」[issue](https://github.com/vesoft-inc/nebula-community/issues/2) 
 - **童年回忆·铁皮青蛙**
     1. 线下技术大会专属礼品，需要到大会展台参加活动获得
 - **调试神器·小黄鸭**

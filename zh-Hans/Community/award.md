@@ -6,15 +6,15 @@ Nebula 社区架构图如下所示：分为开发者（Dev Group）和用户（U
 
 ## Dev Group
 
-Dev Group 是由活跃在 Nebula Graph 及其周边工具仓库的开发者组成，他们主要负责让 Nebula Graph 产品更加稳定、功能更加丰富、性能更佳。根据他们对整个 Nebula Graph 仓库的贡献，分为 4 种角色：PMC、Committer、Active Contributor 和 Contributor。
+Dev Group 是由活跃在 NebulaGraph 及其周边工具仓库的开发者组成，他们主要负责让 NebulaGraph 产品更加稳定、功能更加丰富、性能更佳。根据他们对整个 NebulaGraph 仓库的贡献，分为 4 种角色：PMC、Committer、Active Contributor 和 Contributor。
 
 ### PMC
 
-PMC，全称 Project Management Committee，负责制定 Nebula Graph 产品功能规划和主导 Nebula Graph 项目开发。你可以通过该链接查看现有 [PMC 成员](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans/Contributors/pmc-list.md)。
+PMC，全称 Project Management Committee，负责制定 NebulaGraph 产品功能规划和主导 NebulaGraph 项目开发。你可以通过该链接查看现有 [PMC 成员](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans/Contributors/pmc-list.md)。
 
 ### Contributor
 
-Contributor 由给 Nebula Graph 及其周边仓库做出贡献的开发者组成。
+Contributor 由给 NebulaGraph 及其周边仓库做出贡献的开发者组成。
 
 - 条件
     - 在任意 repo 下提交并被合并 1 个 pr
@@ -30,7 +30,7 @@ Contributor 由给 Nebula Graph 及其周边仓库做出贡献的开发者组成
 
 ### Active Contributor
 
-Active Contributor 由给 Nebula Graph 及其周边仓库做出大贡献的开发者组成。
+Active Contributor 由给 NebulaGraph 及其周边仓库做出大贡献的开发者组成。
 
 - 条件
     - 一个自然年在某个 repo 提交并被合并 3 个 pr
@@ -47,7 +47,7 @@ Active Contributor 由给 Nebula Graph 及其周边仓库做出大贡献的开�
 
 ### Committer
 
-Committer 由给 Nebula Graph 及其周边仓库做出巨大贡献的开发者组成，具有对应仓库的 pr 的 approve 权限。
+Committer 由给 NebulaGraph 及其周边仓库做出巨大贡献的开发者组成，具有对应仓库的 pr 的 approve 权限。
 
 - 条件
     - 一个自然年在某个 repo 提交并被合并 5 个 pr
@@ -69,7 +69,7 @@ Committer 由给 Nebula Graph 及其周边仓库做出巨大贡献的开发者�
 
 ## User Group
 
-User Group 由活跃在 Nebula 论坛及其微信群、Slack 的用户组成，他们引导其他用户更好地了解、实践 Nebula Graph，同 Nebula 官方共建 Nebula 社区。根据他们引导用户的方法不同，我们将他们分为了 4 种角色：Participant、Writer、Ambassador 和 Partner。
+User Group 由活跃在 Nebula 论坛及其微信群、Slack 的用户组成，他们引导其他用户更好地了解、实践 NebulaGraph，同 Nebula 官方共建 Nebula 社区。根据他们引导用户的方法不同，我们将他们分为了 4 种角色：Participant、Writer、Ambassador 和 Partner。
 
 ### Participant
 
@@ -152,7 +152,7 @@ Explainer 是一群在论坛、微信群、Slack 等渠道回复其他社区用�
 
 ### Writer
 
-Writer 是由一群热心的 Nebula 用户组成，他们用文字的形式记录他们的使用过程，帮助其他用户更好地使用 Nebula Graph。根据他们产出文章的数量，分为：Writer、Author、Preacher。
+Writer 是由一群热心的 Nebula 用户组成，他们用文字的形式记录他们的使用过程，帮助其他用户更好地使用 NebulaGraph。根据他们产出文章的数量，分为：Writer、Author、Preacher。
 
 - Writer
     - 条件
@@ -192,7 +192,7 @@ Writer 是由一群热心的 Nebula 用户组成，他们用文字的形式记�
 
 ### Ambassador
 
-Ambassador 是由一群热心的 Nebula 用户组成，他们用音、视频形式向他人分享 Nebula 技术，帮助其他开发者更好地认识、了解 Nebula Graph。
+Ambassador 是由一群热心的 Nebula 用户组成，他们用音、视频形式向他人分享 Nebula 技术，帮助其他开发者更好地认识、了解 NebulaGraph。
 
 - 条件
     - 在公司内部或者其他公开场所分享 Nebula 相关视频，并将视频提供给 Nebula 社区
@@ -206,7 +206,7 @@ Ambassador 是由一群热心的 Nebula 用户组成，他们用音、视频形�
 
 ### Partner
 
-Partner 是由一群热心的 Nebula 用户组成，他们积极地组织线上、线下活动同其他开发者交流 Nebula 技术，帮助其他开发者更好地认识、了解 Nebula Graph。
+Partner 是由一群热心的 Nebula 用户组成，他们积极地组织线上、线下活动同其他开发者交流 Nebula 技术，帮助其他开发者更好地认识、了解 NebulaGraph。
 
 - 条件
     - 有共建 Nebula 社区意向

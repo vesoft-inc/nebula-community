@@ -6,7 +6,7 @@ Please briefly introduce your project to others, including what the highlights a
 
 ## Project Background
 
-Please give the reason why you and your team want to develop this project. What kind of problems can this project solve? Does your project solve any existing issues of Nebula Graph?
+Please give the reason why you and your team want to develop this project. What kind of problems can this project solve? Does your project solve any existing issues of NebulaGraph?
 
 ## Project Value
 

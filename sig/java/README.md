@@ -63,7 +63,7 @@ The official JDBC connector for NebulaGraph.
 
 ### ngbatis
 
-Ngbatis is a database ORM framework for Nebula graph + spring-boot. Take advantage of mybatis' usage habits to develop your graph-based application.
+Ngbatis is a database ORM framework for NebulaGraph + spring-boot. Take advantage of mybatis' usage habits to develop your graph-based application.
 
 - **Owners**:
   - [@CorvusYe](https://github.com/CorvusYe)

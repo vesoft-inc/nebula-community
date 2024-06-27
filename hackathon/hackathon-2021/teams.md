@@ -22,10 +22,10 @@
 |18| [Computing Geeks](#ComputingGeeks)|graphmatrix|https://github.com/vesoft-inc/nebula-community/issues/58|https://github.com/NebulaGraphMatrix/nebula||
 |19| [Dangling Edges](#DanglingEdges)|Dangling edges and super nodes|[Dangling edges and super nodes RFC](https://github.com/vesoft-inc/nebula-community/issues/57)|https://github.com/panda-sheep/nebula-hackathon/tree/ht||
 |20| [AI-Com](#AI-Com)|Retail Behavior Discovery|[Retail Behavior Discovery RFC](https://github.com/jackhackson/hackathon-2021/blob/main/README.md)|https://github.com/jackhackson/hackathon-2021||
-|21| [Attractive Restaurant](#AttractiveRestaurant)|Feel relaxed with Nebula Graph in-depth query|https://github.com/vesoft-inc/nebula-community/issues/73|https://github.com/critical27/nebula/tree/hack||
+|21| [Attractive Restaurant](#AttractiveRestaurant)|Feel relaxed with NebulaGraph in-depth query|https://github.com/vesoft-inc/nebula-community/issues/73|https://github.com/critical27/nebula/tree/hack||
 |22| [M42](#M42)|Fly to M78|https://docs.google.com/document/d/1jIluCZgMlbbafIrgYO_Rz6nTserHOf3ZXtOVChDatyM/edit?usp=sharing|https://github.com/nevermore3/nebula/tree/cachelib||
 |23|[Marauders](#Marauders)|Marauder’s Map | https://docs.google.com/document/d/1HPLi2945rpwUpz3_jvKTpWRXtWPLP4IJm8a3GvqdQIM/edit?usp=sharing|[https://github.com/wey-gu/amundsen](https://github.com/wey-gu/amundsen)||
-|24|[GNN Enthusiast](#GNN-enthusiast)|Euler Based on Nebula Graph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|[https://github.com/MMyheart/euler-base-nebula](https://github.com/MMyheart/euler-base-nebula)||
+|24|[GNN Enthusiast](#GNN-enthusiast)|Euler Based on NebulaGraph |[https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS](https://docs.qq.com/doc/DVnZQUVBzd1dmS0lS)|[https://github.com/MMyheart/euler-base-nebula](https://github.com/MMyheart/euler-base-nebula)||
 |25|[Gugugu](#gugugu)|Index Advisor|[RFC DOC](https://docs.google.com/document/d/1q7YxHjFIxvDitcqpKJ_wX4iy9XqV7TqHQjLSegnlloc/edit)|Pending Input||
 |26| [Dinamo](#Dinamo)|GraphYourCodeVulnerability|[Validation of GitHub projects exposure to CVE vulnerabilities](https://github.com/vesoft-inc/nebula-community/blob/master/hackathon/hackathon-2021/teams.md#Dinamo)|[https://github.com/mirac7/GraphYourCodeVulnerability](https://github.com/mirac7/GraphYourCodeVulnerability)|Demo [https://secure.codegraph.space](https://secure.codegraph.space)|
 |27| [Ashwini kumar Pal](#AshwinikumarPal)|Nebula-DGL|Pending Input|Pending Input||
@@ -45,7 +45,7 @@
 ### NullReferenceException
 
    * Project name: nebula-net & nebula-php
-   * Project introduction: From now on, we can import Nebula Graph in .NET & PHP.
+   * Project introduction: From now on, we can import NebulaGraph in .NET & PHP.
    * Team members
       * Yanlong He —— Apache Software Foundation / Apache SkyWalking committer
       * Pengfang Liu —— Xignite / Market data delivery
@@ -85,7 +85,7 @@
 ### Other Side 
 
 * Project name: Open Telemetry
-* Project Introduction: Integrate OpenTelemetry to trace and visualize Nebula Graph 
+* Project Introduction: Integrate OpenTelemetry to trace and visualize NebulaGraph 
 * Team members
    * Shihao Zhong, big data engineer from Massmutual
    * Penghan Wang, log search engine engineer from AppDynamics
@@ -102,7 +102,7 @@
 ### Node_module
 
 * Project name: Nebula-node
-* Project Introduction: Develop a Nebula Graph client for Node.js
+* Project Introduction: Develop a NebulaGraph client for Node.js
 * Team members
    *  Baoli Zhang, knowledge graph engineer from Qichacha
    *  Jianping Wu, senior back-end engineer from Qichacha
@@ -130,7 +130,7 @@
 ### Nebula No.1
 
 * Project name: UDF Enhanced Nebula
-* Project Introduction: Realize Nebula Graph user-defined functions based on Wasm.
+* Project Introduction: Realize NebulaGraph user-defined functions based on Wasm.
 * Team members
    *  Arcosx, proficient in machine learning and cloud native
    *  TripleZ, back-end engineer and open source enthusiast
@@ -147,7 +147,7 @@
 ### Computing Geeks
 
 * Project name: graphmatrix
-* Project Introduction: Enhance the graph computing capability of the stand-alone Nebula Graph and make it be compatible with the original nGQL grammar
+* Project Introduction: Enhance the graph computing capability of the stand-alone NebulaGraph and make it be compatible with the original nGQL grammar
 * Team members
    *  Min Wu
    *  Xinglu Yi
@@ -163,14 +163,14 @@
 ### AI-Com
 
 * Project name: Retail Behavior Discovery
-* Project Introduction: Use Nebula Graph to replace traditional databases for intelligent discovery of retail behavior
+* Project Introduction: Use NebulaGraph to replace traditional databases for intelligent discovery of retail behavior
 * Team members
    *  Jack, database developer
    *  Meiyinglingluo, junior student major in computational mathematics
 
 ### Attractive Restaurant  
 
-* Project name: Feel relaxed with Nebula Graph in-depth query
+* Project name: Feel relaxed with NebulaGraph in-depth query
 * Project Introduction: Performance optimization trail
 * Team members
    *  Yujue Wang
@@ -181,7 +181,7 @@
 ### M42
 
 * Project name: --
-* Project Introduction: The project mainly optimizes different layers of Nebula storage to improve Nebula Graph TP query performance, including Nebula Graph storage engine optimization, architecture optimization, caching, etc.
+* Project Introduction: The project mainly optimizes different layers of Nebula storage to improve NebulaGraph TP query performance, including NebulaGraph storage engine optimization, architecture optimization, caching, etc.
 * Team members
    *  Hao Wen
    *  Mingquan Ji
@@ -205,7 +205,7 @@
 
 ### GNN enthusiast
 
-* Project name: Euler Based on Nebula Graph
+* Project name: Euler Based on NebulaGraph
 * Project Introduction: NebulaGraph替换Euler2原生的内存图引擎，让图数据库的用户可以低成本的尝试图学习能力。
 * Team members
     * Xin Yang
@@ -248,7 +248,7 @@ It will display graph of connected objects with their versions with detected vul
 In descriptions of CVE vulnerabilities visualized on graph, software will suggest to user to use patched versions of the libraries to improve security and avoid potential hacker attacks.
 
    * Project Background
-       * Project will use Nebula Graph to enable graph traversals and pivoting of the source code objects to enable user to have 360 degree view of the project structure
+       * Project will use NebulaGraph to enable graph traversals and pivoting of the source code objects to enable user to have 360 degree view of the project structure
 with dependencies to libraries and connected repositories cross linked with CVE vulnerabilities. Nice feature will be support for full-text search to easy filter elements of the graph
 and find objects of interest. Search will be enabled using Nebula integration with Elasticsearch engine and custom python parser and search primitives.
 
@@ -257,10 +257,10 @@ and find objects of interest. Search will be enabled using Nebula integration wi
 This project will enable user to validate exposure of the repository elements to known vulnerabilities and protect their own product and improve security of the software.
 
    * Project Design
-       * Project will be developed in python and deployed as web application with Nebula Graph as backend database:
+       * Project will be developed in python and deployed as web application with NebulaGraph as backend database:
            - Custom python code for web application service
            - Nginx web server
-           - Nebula Graph database integrated with Elasticsearch engine
+           - NebulaGraph database integrated with Elasticsearch engine
            - Java Script visualization library
 
    * Project Testing
