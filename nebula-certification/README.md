@@ -1,21 +1,21 @@
 # Nebula Certifications
 
-To keep synchronized with the fast-paced development of Nebula Graph and its ecosystem and show your expertise in them, you can always participate in the Nebula Certifications.
+To keep synchronized with the fast-paced development of NebulaGraph and its ecosystem and show your expertise in them, you can always participate in the Nebula Certifications.
 
 Nebula certifications have two levels:
 
-* Nebula Graph Certified Insider (NGCI)
-    * Obtaining NGCI shows that you are a qualified user with a good understanding of Nebula Graph.
+* NebulaGraph Certified Insider (NGCI)
+    * Obtaining NGCI shows that you are a qualified user with a good understanding of NebulaGraph.
     * The NGCI test consists of 100 questions with a total score of 100: 40 single-choice questions and 60 true-or-false questions.
-* Nebula Graph Certified Professional (NGCP)
-    * Obtaining NGCP shows that you are a professional with a profound understanding of Nebula Graph.
+* NebulaGraph Certified Professional (NGCP)
+    * Obtaining NGCP shows that you are a professional with a profound understanding of NebulaGraph.
     * The NGCP test consists of 100 questions with a total score of 100: 40 single-choice questions, 30 multiple-choice questions, and 30 true or false questions.
 
 A score of 60 or above grants you the NGCI/NGCP certificate.
 
 ## How to get certified
 
-1. Visit the [certification page](https://academic.nebula-graph.io/?lang=EN_US) of Nebula Graph Academy.
+1. Visit the [certification page](https://academic.nebula-graph.io/?lang=EN_US) of NebulaGraph Academy.
 2. Select a test and click **Get Certified**.
 3. On the test creation page, enter the information required for taking the test, and click **Start**.
 
@@ -35,7 +35,7 @@ In addition, NGCP e-certificate holders can contact Lisa/Wey/Hera on the [Nebula
 
 ## Reference materials
 
-[Nebula Graph documentations](https://docs.nebula-graph.io)
+[NebulaGraph documentations](https://docs.nebula-graph.io)
 
 ## Notes
 

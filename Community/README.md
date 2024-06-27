@@ -1,6 +1,6 @@
 # NebulaGraph Community
 
-The Nebula Graph community is organized as shown below.
+The NebulaGraph community is organized as shown below.
 
 ![image](/Community/community-architecture.png)
 
