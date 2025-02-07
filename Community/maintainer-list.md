@@ -43,3 +43,4 @@
 | :---------------------------------------------: | :----: | :-----: |
 | [HarrisChu](https://github.com/HarrisChu) |  Harris  | vesoft |
 | [Nicole00](https://github.com/Nicole00)| Anqi | vesoft |
+| [hanxins](https://github.com/haoxins)| Xin Hao | Airwallex |
