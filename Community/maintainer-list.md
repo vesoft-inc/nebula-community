@@ -35,3 +35,11 @@
 | [bright-starry-sky](https://github.com/bright-starry-sky)|  Sky  | vesoft |
 | [Yee](https://github.com/yixinglu)|  Yee | vesoft |
 | [cpw](https://github.com/CPWstatic)|  William chen  | vesoft |
+
+
+### vesoft-inc/nebula-go Maintainers
+
+|                    GitHub ID                    |  Name  | Company |
+| :---------------------------------------------: | :----: | :-----: |
+| [HarrisChu](https://github.com/HarrisChu) |  Harris  | vesoft |
+| [Nicole00](https://github.com/Nicole00)| Anqi | vesoft |
