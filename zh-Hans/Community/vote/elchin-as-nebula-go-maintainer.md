@@ -27,4 +27,4 @@ Given Elchin's substantial contributions and proven technical capability, we kin
 
 - **Deadline**: The voting period will be open for at least 3 days. If there are no objections or if the number of votes is insufficient, the period will be extended.
 - **Voting Scope**: NebulaGraph Core Team.
-- **Results Announcement**: See Community PR https://github.com/vesoft-inc/nebula-community/pull/477.
+- **Results Announcement**: See Community PR https://github.com/vesoft-inc/nebula-community/pull/478.
